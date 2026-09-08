@@ -13,17 +13,15 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Put an OpenAI API key in `.env`. `OPENAI_MODEL` is configurable there too. The key is deliberately excluded from Git.
+Put a Gemini API key in `.env`:
+
+```env
+GEMINI_API_KEY=your_key_here
+GEMINI_MODEL=gemini-3.5-flash-lite
 
 The fetch cache is included, so a reviewer does not need to hit BSE or YouTube to run the project. Rebuild the database from those local files:
 
-```bash
-python src/store/init_db.py --reset
-python src/store/load_sources.py
-python src/store/load_chunks.py
-python src/ai/enrich_sources.py
 streamlit run src/app/app.py
-```
 
 Open the local URL Streamlit prints. The final command is the only long-running one; leave it open while demoing.
 
