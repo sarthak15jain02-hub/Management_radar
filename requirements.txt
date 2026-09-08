@@ -1,0 +1,4 @@
+requests
+pymupdf
+youtube-transcript-api
+python-dotenv
