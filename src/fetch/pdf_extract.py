@@ -37,7 +37,12 @@ def extract_pdfs():
 
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump({"source_no": no, "pages": pages}, f, indent=2)
-            print(f"[ok] {no} extracted, {len(pages)} pages")
+
+            total_chars = sum(len(p["text"]) for p in pages)
+            if total_chars < 50:
+                print(f"[WARN] {no} extracted but only {total_chars} chars - likely a bad/scanned PDF, check manually")
+            else:
+                print(f"[ok] {no} extracted, {len(pages)} pages, {total_chars} chars")
         except Exception as e:
             print(f"[fail] {no}: {e}")
 

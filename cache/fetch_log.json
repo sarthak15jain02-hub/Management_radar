@@ -1,0 +1,12 @@
+[
+  {
+    "source_no": "2",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8ced1ab-d385-4f8c-bcc9-90a186b40275.pdf",
+    "error": "BSE serves SPA homepage instead of PDF - link appears stale/dead, confirmed via curl inspection"
+  },
+  {
+    "source_no": "2",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8ced1ab-d385-4f8c-bcc9-90a186b40275.pdf",
+    "error": "response is not a real PDF (got text/html) - likely blocked or redirected"
+  }
+]

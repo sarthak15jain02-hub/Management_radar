@@ -14,7 +14,23 @@ HEADERS = {
         "Chrome/124.0.0.0 Safari/537.36"
     ),
     "Referer": "https://www.bseindia.com/",
+    "Accept": "application/pdf,text/html,*/*",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Dest": "document",
 }
+
+_session = None
+
+
+def get_session():
+    global _session
+    if _session is None:
+        _session = requests.Session()
+        _session.headers.update(HEADERS)
+        # visit the main site first to acquire any session cookies BSE sets
+        _session.get("https://www.bseindia.com/", timeout=30)
+    return _session
 
 
 def load_rows(source_type):
@@ -44,8 +60,15 @@ def fetch_pdfs():
             continue
 
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=30)
+            resp = get_session().get(url, timeout=30)
             resp.raise_for_status()
+
+            if not resp.content.startswith(b"%PDF"):
+                raise ValueError(
+                    f"response is not a real PDF (got {resp.headers.get('Content-Type')}) "
+                    "- likely blocked or redirected"
+                )
+
             with open(out_path, "wb") as f:
                 f.write(resp.content)
             print(f"[ok] {no} downloaded")
