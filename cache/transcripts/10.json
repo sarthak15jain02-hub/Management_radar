@@ -1,0 +1,4153 @@
+{
+  "source_no": "10",
+  "segments": [
+    {
+      "start_sec": 0.654,
+      "text": "[music]"
+    },
+    {
+      "start_sec": 30.28,
+      "text": ">> Hello and welcome to On the Record with"
+    },
+    {
+      "start_sec": 31.96,
+      "text": "me Shereen Bhan. We're at the Infosys"
+    },
+    {
+      "start_sec": 33.8,
+      "text": "headquarters here in Bengaluru and the"
+    },
+    {
+      "start_sec": 36.28,
+      "text": "reason we're here is because Salil"
+    },
+    {
+      "start_sec": 38.28,
+      "text": "Parekh has decided that he is going to"
+    },
+    {
+      "start_sec": 40.6,
+      "text": "move on and put a successor in place. I"
+    },
+    {
+      "start_sec": 43.68,
+      "text": "was here in 2018 within the very first"
+    },
+    {
+      "start_sec": 46.04,
+      "text": "month that Parekh had taken over and"
+    },
+    {
+      "start_sec": 48.12,
+      "text": "today, as he gets ready to exit Infosys,"
+    },
+    {
+      "start_sec": 50.6,
+      "text": "he is the longest-serving CEO, a"
+    },
+    {
+      "start_sec": 52.88,
+      "text": "non-founder CEO of the company. Just to"
+    },
+    {
+      "start_sec": 56.6,
+      "text": "give you some numbers of what the growth"
+    },
+    {
+      "start_sec": 58.72,
+      "text": "has looked like under Salil Parekh's"
+    },
+    {
+      "start_sec": 60.64,
+      "text": "tenure, sales growth of 11%, profit"
+    },
+    {
+      "start_sec": 63.08,
+      "text": "growth of 8%, the stock has returned 7%"
+    },
+    {
+      "start_sec": 65.44,
+      "text": "and ROE of 28%. That captures the tenure"
+    },
+    {
+      "start_sec": 69.24,
+      "text": "performance for Salil Parekh here at"
+    },
+    {
+      "start_sec": 71.88,
+      "text": "Infosys. As he gets ready to move on"
+    },
+    {
+      "start_sec": 74.72,
+      "text": "from Infosys, but perhaps also start up"
+    },
+    {
+      "start_sec": 76.96,
+      "text": "all over again. Joining me now is the"
+    },
+    {
+      "start_sec": 78.88,
+      "text": "man himself, Salil. Thanks very much for"
+    },
+    {
+      "start_sec": 81.08,
+      "text": "joining us. It's great to have you. As I"
+    },
+    {
+      "start_sec": 82.56,
+      "text": "said, life comes a full circle. I was"
+    },
+    {
+      "start_sec": 84.12,
+      "text": "here in 2018 in January when you had"
+    },
+    {
+      "start_sec": 86.56,
+      "text": "started your tenure and I'm here as you"
+    },
+    {
+      "start_sec": 88.96,
+      "text": "have decided to transition."
+    },
+    {
+      "start_sec": 90.64,
+      "text": "Uh"
+    },
+    {
+      "start_sec": 91.32,
+      "text": "but, you know, Salil,"
+    },
+    {
+      "start_sec": 92.92,
+      "text": "they could have moved a special"
+    },
+    {
+      "start_sec": 93.92,
+      "text": "resolution. They could have given you"
+    },
+    {
+      "start_sec": 95.6,
+      "text": "more time. Did you want more time? Was"
+    },
+    {
+      "start_sec": 97.48,
+      "text": "that even a conversation?"
+    },
+    {
+      "start_sec": 99.16,
+      "text": ">> So, first, Shereen,"
+    },
+    {
+      "start_sec": 101.12,
+      "text": "it's great to have you back here. I"
+    },
+    {
+      "start_sec": 102.8,
+      "text": "think, as you just mentioned,"
+    },
+    {
+      "start_sec": 105.48,
+      "text": "it was wonderful when I started, you"
+    },
+    {
+      "start_sec": 108.4,
+      "text": "were here and"
+    },
+    {
+      "start_sec": 109.68,
+      "text": "I think it was a bit of a war, at least"
+    },
+    {
+      "start_sec": 111.28,
+      "text": "for me, given everything that was going"
+    },
+    {
+      "start_sec": 113.48,
+      "text": "on in the company. Uh Uh, and today, uh"
+    },
+    {
+      "start_sec": 116.08,
+      "text": "in in a very different place, I feel at"
+    },
+    {
+      "start_sec": 118.72,
+      "text": "least the company is. So, thanks for"
+    },
+    {
+      "start_sec": 120.36,
+      "text": "being here and thanks for doing this."
+    },
+    {
+      "start_sec": 122.44,
+      "text": "Um, I I think as you shared, the the"
+    },
+    {
+      "start_sec": 126.52,
+      "text": "last several years have gone, I think,"
+    },
+    {
+      "start_sec": 128.44,
+      "text": "quite well for the company. Uh, we've"
+    },
+    {
+      "start_sec": 130.84,
+      "text": "grown very well, 10 billion to 20"
+    },
+    {
+      "start_sec": 133.44,
+      "text": "billion."
+    },
+    {
+      "start_sec": 134.6,
+      "text": "Uh, the whole focus on digital has"
+    },
+    {
+      "start_sec": 136.68,
+      "text": "helped us. Now, the AI is really well"
+    },
+    {
+      "start_sec": 140.48,
+      "text": "established. We had a 8% revenue last"
+    },
+    {
+      "start_sec": 143.56,
+      "text": "quarter, and we can see uh, with the"
+    },
+    {
+      "start_sec": 145.6,
+      "text": "market evolution where that's going. Uh,"
+    },
+    {
+      "start_sec": 147.8,
+      "text": "so, in all of that,"
+    },
+    {
+      "start_sec": 149.72,
+      "text": "uh, what what I had the opportunity"
+    },
+    {
+      "start_sec": 151.68,
+      "text": "here, you know, leading an iconic"
+    },
+    {
+      "start_sec": 153.92,
+      "text": "institution was, uh, just an incredible"
+    },
+    {
+      "start_sec": 156.48,
+      "text": "blessing. Uh, and given all of that and"
+    },
+    {
+      "start_sec": 159.12,
+      "text": "the way Infosys is positioned, uh, it"
+    },
+    {
+      "start_sec": 161.36,
+      "text": "looked like the right time. We have a"
+    },
+    {
+      "start_sec": 163.48,
+      "text": "phenomenal team within the company. We"
+    },
+    {
+      "start_sec": 166.04,
+      "text": "have leaders in the market across"
+    },
+    {
+      "start_sec": 169.4,
+      "text": "delivery, across all of our functions."
+    },
+    {
+      "start_sec": 171.64,
+      "text": "Uh, so, I feel really good that this is"
+    },
+    {
+      "start_sec": 173.72,
+      "text": "a great time to have that sort of"
+    },
+    {
+      "start_sec": 175.76,
+      "text": "completion of my second term and have,"
+    },
+    {
+      "start_sec": 178.36,
+      "text": "uh, a new person running the show now."
+    },
+    {
+      "start_sec": 180.28,
+      "text": ">> But, you know what they say, third time"
+    },
+    {
+      "start_sec": 181.959,
+      "text": "is a charm, Salil. [laughter] So, you"
+    },
+    {
+      "start_sec": 183.12,
+      "text": "didn't want to take that chance."
+    },
+    {
+      "start_sec": 185.92,
+      "text": ">> No, absolutely. I think, you know, all"
+    },
+    {
+      "start_sec": 187.76,
+      "text": "of those things are good things, but"
+    },
+    {
+      "start_sec": 190.36,
+      "text": "equally, Infosys is in a very good"
+    },
+    {
+      "start_sec": 192.28,
+      "text": "place. Uh, and we've had, I think, an"
+    },
+    {
+      "start_sec": 194.56,
+      "text": "incredible run going through many"
+    },
+    {
+      "start_sec": 196.92,
+      "text": "different sort of global environments."
+    },
+    {
+      "start_sec": 199.08,
+      "text": "And given where we are, given where we"
+    },
+    {
+      "start_sec": 201.68,
+      "text": "positioned ourselves on AI, uh, it's a"
+    },
+    {
+      "start_sec": 204.56,
+      "text": "good time to make sure that we we focus"
+    },
+    {
+      "start_sec": 207.56,
+      "text": "on all of the things that have happened"
+    },
+    {
+      "start_sec": 208.959,
+      "text": "in the company that have supported us"
+    },
+    {
+      "start_sec": 210.28,
+      "text": "for the good."
+    },
+    {
+      "start_sec": 211.16,
+      "text": ">> You know, I'll get to AI in just a"
+    },
+    {
+      "start_sec": 212.4,
+      "text": "second, uh, Salil, but, uh, let let"
+    },
+    {
+      "start_sec": 214.48,
+      "text": "let's walk through your wonderful campus"
+    },
+    {
+      "start_sec": 216.64,
+      "text": "here. Uh, let's talk a little bit about,"
+    },
+    {
+      "start_sec": 218.64,
+      "text": "uh, Ashish Dash, who, of course, comes"
+    },
+    {
+      "start_sec": 220.6,
+      "text": "in to take over. October is when the"
+    },
+    {
+      "start_sec": 222.84,
+      "text": "transition, in a sense, the hand-holding"
+    },
+    {
+      "start_sec": 224.76,
+      "text": "will start. Uh, he will move to LA, uh,"
+    },
+    {
+      "start_sec": 227.32,
+      "text": "from LA to Bengaluru. Uh,"
+    },
+    {
+      "start_sec": 229.959,
+      "text": "were were there only internal candidates"
+    },
+    {
+      "start_sec": 233.0,
+      "text": "that the board considered or were there"
+    },
+    {
+      "start_sec": 235.2,
+      "text": "external candidates as well that the"
+    },
+    {
+      "start_sec": 236.92,
+      "text": "board looked at?"
+    },
+    {
+      "start_sec": 238.12,
+      "text": ">> So, the first guy is a phenomenal"
+    },
+    {
+      "start_sec": 240.96,
+      "text": "leader. I've known him for many years."
+    },
+    {
+      "start_sec": 242.64,
+      "text": "We've worked together. He's a good"
+    },
+    {
+      "start_sec": 244.04,
+      "text": "friend and done very well with"
+    },
+    {
+      "start_sec": 247.48,
+      "text": "employees, with clients, and also with"
+    },
+    {
+      "start_sec": 250.959,
+      "text": "the portfolio that he's looked at, you"
+    },
+    {
+      "start_sec": 253.04,
+      "text": "know, both in terms of, you know, making"
+    },
+    {
+      "start_sec": 254.92,
+      "text": "sure there's growth, making sure there's"
+    },
+    {
+      "start_sec": 257.28,
+      "text": "economic returns. So, very very strong"
+    },
+    {
+      "start_sec": 259.519,
+      "text": "performance. The board went through,"
+    },
+    {
+      "start_sec": 263.0,
+      "text": "I think, a very good process in the way"
+    },
+    {
+      "start_sec": 265.64,
+      "text": "they looked at the situation and made"
+    },
+    {
+      "start_sec": 268.48,
+      "text": "all of their decisions"
+    },
+    {
+      "start_sec": 270.36,
+      "text": "in in keeping in mind what we were"
+    },
+    {
+      "start_sec": 273.56,
+      "text": "looking at as a company into the future."
+    },
+    {
+      "start_sec": 276.36,
+      "text": "And of course, we have an excellent set"
+    },
+    {
+      "start_sec": 278.96,
+      "text": "of leaders within Infosys and"
+    },
+    {
+      "start_sec": 282.0,
+      "text": "we've had this I mean, Salil himself has"
+    },
+    {
+      "start_sec": 284.48,
+      "text": "been here over 30 years, but many of the"
+    },
+    {
+      "start_sec": 287.24,
+      "text": "senior leaders been here for 20, 25, 30"
+    },
+    {
+      "start_sec": 290.04,
+      "text": "years. So, fortunately, there's a good"
+    },
+    {
+      "start_sec": 292.72,
+      "text": "set of people in the leadership"
+    },
+    {
+      "start_sec": 295.8,
+      "text": "sort of domain within Infosys itself."
+    },
+    {
+      "start_sec": 298.68,
+      "text": ">> You know, Salil,"
+    },
+    {
+      "start_sec": 300.52,
+      "text": "as we look forward, I also want to look"
+    },
+    {
+      "start_sec": 302.32,
+      "text": "back and I also want to ask you what you"
+    },
+    {
+      "start_sec": 304.8,
+      "text": "believe we should now calibrate as far"
+    },
+    {
+      "start_sec": 307.08,
+      "text": "as growth expectations for the company"
+    },
+    {
+      "start_sec": 309.0,
+      "text": "as well as for the industry is"
+    },
+    {
+      "start_sec": 310.08,
+      "text": "concerned. And I was just looking at the"
+    },
+    {
+      "start_sec": 311.68,
+      "text": "numbers to really get"
+    },
+    {
+      "start_sec": 313.72,
+      "text": "an arc of what you've kind of,"
+    },
+    {
+      "start_sec": 316.919,
+      "text": "you know, overseen. FY19 9% and of"
+    },
+    {
+      "start_sec": 320.12,
+      "text": "course, we saw that big bump up in FY22"
+    },
+    {
+      "start_sec": 322.76,
+      "text": "of almost almost 20% and then about 16%"
+    },
+    {
+      "start_sec": 326.36,
+      "text": "in FY23 and then now back down to about"
+    },
+    {
+      "start_sec": 328.919,
+      "text": "3% FY26."
+    },
+    {
+      "start_sec": 332.0,
+      "text": "You know, would it be fair to assume"
+    },
+    {
+      "start_sec": 334.2,
+      "text": "that we're going to now, for the"
+    },
+    {
+      "start_sec": 335.56,
+      "text": "foreseeable future, be stuck in this 3"
+    },
+    {
+      "start_sec": 337.96,
+      "text": "to 5% kind of range?"
+    },
+    {
+      "start_sec": 340.56,
+      "text": ">> So, first, I think"
+    },
+    {
+      "start_sec": 342.24,
+      "text": "what you described, if you look at the"
+    },
+    {
+      "start_sec": 344.56,
+      "text": "organic growth we've had we've had"
+    },
+    {
+      "start_sec": 346.84,
+      "text": "across that time from when I started the"
+    },
+    {
+      "start_sec": 349.68,
+      "text": "fastest among the large companies."
+    },
+    {
+      "start_sec": 352.28,
+      "text": "What we see and and you you've seen this"
+    },
+    {
+      "start_sec": 355.04,
+      "text": "industry and Infosys for years"
+    },
+    {
+      "start_sec": 357.68,
+      "text": "there are cyclical sort of aspects of of"
+    },
+    {
+      "start_sec": 362.28,
+      "text": "the tech spend. So, for example when"
+    },
+    {
+      "start_sec": 366.36,
+      "text": "global macro GDP growth is more managed"
+    },
+    {
+      "start_sec": 370.76,
+      "text": "and doing well, the growth typically on"
+    },
+    {
+      "start_sec": 373.32,
+      "text": "tech is higher."
+    },
+    {
+      "start_sec": 374.76,
+      "text": "Um what we see now is really the start"
+    },
+    {
+      "start_sec": 377.2,
+      "text": "of the AI expansion. If you look at"
+    },
+    {
+      "start_sec": 381.08,
+      "text": "our own AI uh growth"
+    },
+    {
+      "start_sec": 383.72,
+      "text": "we shared publicly, it's double-digit"
+    },
+    {
+      "start_sec": 386.76,
+      "text": "quarter-on-quarter growth over the last"
+    },
+    {
+      "start_sec": 388.52,
+      "text": "several quarters. So, it's a very strong"
+    },
+    {
+      "start_sec": 390.6,
+      "text": "foundation. If you look at it as a"
+    },
+    {
+      "start_sec": 392.56,
+      "text": "standalone at over 8% it's already a"
+    },
+    {
+      "start_sec": 395.84,
+      "text": "very large part of what we are doing. A"
+    },
+    {
+      "start_sec": 398.28,
+      "text": "lot of work on agents, lot of work on"
+    },
+    {
+      "start_sec": 400.84,
+      "text": "modernization, lot of work with the new"
+    },
+    {
+      "start_sec": 403.12,
+      "text": "coding tools."
+    },
+    {
+      "start_sec": 404.84,
+      "text": "When the other pieces of the global"
+    },
+    {
+      "start_sec": 407.16,
+      "text": "environment, the macro, the GDP all"
+    },
+    {
+      "start_sec": 409.72,
+      "text": "start to come together uh there'll be"
+    },
+    {
+      "start_sec": 412.12,
+      "text": "more tech spend overall as well because"
+    },
+    {
+      "start_sec": 414.52,
+      "text": "part of what we've seen recently is much"
+    },
+    {
+      "start_sec": 417.32,
+      "text": "more attention on cost. And so, my sense"
+    },
+    {
+      "start_sec": 420.12,
+      "text": "is as that cycle comes off we will start"
+    },
+    {
+      "start_sec": 423.04,
+      "text": "to see good growth again. Now, of course"
+    },
+    {
+      "start_sec": 425.84,
+      "text": "there's a difference when you have when"
+    },
+    {
+      "start_sec": 428.32,
+      "text": "I started it was a $10 billion entity,"
+    },
+    {
+      "start_sec": 431.04,
+      "text": "today we are a $20 billion entity. So,"
+    },
+    {
+      "start_sec": 433.4,
+      "text": "that has its own uh sort of"
+    },
+    {
+      "start_sec": 436.6,
+      "text": "uh changes in how the growth come, but I"
+    },
+    {
+      "start_sec": 439.56,
+      "text": "see uh over the sort of medium longer"
+    },
+    {
+      "start_sec": 442.64,
+      "text": "term horizon growth more a function of"
+    },
+    {
+      "start_sec": 444.96,
+      "text": "the macro and how we execute on AI. So,"
+    },
+    {
+      "start_sec": 447.56,
+      "text": "good good outlook on growth."
+    },
+    {
+      "start_sec": 448.8,
+      "text": ">> You know, Nandan has given a number of"
+    },
+    {
+      "start_sec": 450.64,
+      "text": "between 300 to 400 billion is what he"
+    },
+    {
+      "start_sec": 452.88,
+      "text": "expects as the addressable market, the"
+    },
+    {
+      "start_sec": 454.84,
+      "text": "AI opportunity by 2030. Now, if I were"
+    },
+    {
+      "start_sec": 458.28,
+      "text": "to ask you how much of that value do you"
+    },
+    {
+      "start_sec": 461.12,
+      "text": "believe you can realistically capture"
+    },
+    {
+      "start_sec": 463.36,
+      "text": "over the next few years?"
+    },
+    {
+      "start_sec": 465.12,
+      "text": ">> So there really it's up to us how we"
+    },
+    {
+      "start_sec": 467.36,
+      "text": "execute. So today what we are seeing is"
+    },
+    {
+      "start_sec": 469.88,
+      "text": "for our client base, our industries,"
+    },
+    {
+      "start_sec": 473.28,
+      "text": "when clients are looking at making AI"
+    },
+    {
+      "start_sec": 475.96,
+      "text": "work, let's say a bank wants to build a"
+    },
+    {
+      "start_sec": 478.12,
+      "text": "new KYC agent."
+    },
+    {
+      "start_sec": 481.12,
+      "text": "The the they are calling Infosys to work"
+    },
+    {
+      "start_sec": 483.68,
+      "text": "with them with all of the foundation"
+    },
+    {
+      "start_sec": 485.92,
+      "text": "model companies to build it for them."
+    },
+    {
+      "start_sec": 488.56,
+      "text": "And any of those processes, any of the"
+    },
+    {
+      "start_sec": 490.8,
+      "text": "functions,"
+    },
+    {
+      "start_sec": 492.24,
+      "text": "clients,"
+    },
+    {
+      "start_sec": 493.52,
+      "text": "the Telco company wants to modernize"
+    },
+    {
+      "start_sec": 495.6,
+      "text": "from an older technology to a new using"
+    },
+    {
+      "start_sec": 498.32,
+      "text": "AI."
+    },
+    {
+      "start_sec": 498.72,
+      "text": ">> Right."
+    },
+    {
+      "start_sec": 499.32,
+      "text": ">> Infosys is the one they call. So we can"
+    },
+    {
+      "start_sec": 501.6,
+      "text": "capture a huge amount of that. That's"
+    },
+    {
+      "start_sec": 503.68,
+      "text": "really an execution play now for us"
+    },
+    {
+      "start_sec": 506.08,
+      "text": "between in that $300 billion"
+    },
+    {
+      "start_sec": 508.52,
+      "text": "uh"
+    },
+    {
+      "start_sec": 509.08,
+      "text": "we've defined the six areas, you you may"
+    },
+    {
+      "start_sec": 511.36,
+      "text": "recall, of what are the specific places"
+    },
+    {
+      "start_sec": 514.08,
+      "text": "where the growth is. And now we've"
+    },
+    {
+      "start_sec": 516.12,
+      "text": "started the execution and it looks"
+    },
+    {
+      "start_sec": 517.64,
+      "text": "pretty good. If we continue the"
+    },
+    {
+      "start_sec": 519.36,
+      "text": "execution well, which every indication"
+    },
+    {
+      "start_sec": 521.479,
+      "text": "is we will, that that market share could"
+    },
+    {
+      "start_sec": 523.76,
+      "text": "be quite massive."
+    },
+    {
+      "start_sec": 525.2,
+      "text": ">> You know, let me take you back to the"
+    },
+    {
+      "start_sec": 527.56,
+      "text": "days of the digital transition, right? I"
+    },
+    {
+      "start_sec": 530.2,
+      "text": "mean, companies like yours started"
+    },
+    {
+      "start_sec": 532.0,
+      "text": "reporting digital revenue uh to the"
+    },
+    {
+      "start_sec": 534.4,
+      "text": "point that you didn't need to make that"
+    },
+    {
+      "start_sec": 536.08,
+      "text": "separation anymore and everything became"
+    },
+    {
+      "start_sec": 538.24,
+      "text": "digital revenue."
+    },
+    {
+      "start_sec": 539.839,
+      "text": "When do you believe that's likely to"
+    },
+    {
+      "start_sec": 541.08,
+      "text": "happen as far as AI is concerned? You've"
+    },
+    {
+      "start_sec": 542.72,
+      "text": "just started reporting AI revenue and 8%"
+    },
+    {
+      "start_sec": 545.28,
+      "text": "today as far as the company's concerned."
+    },
+    {
+      "start_sec": 547.32,
+      "text": "When do you believe you will no longer"
+    },
+    {
+      "start_sec": 548.839,
+      "text": "need a separate line?"
+    },
+    {
+      "start_sec": 550.44,
+      "text": ">> So there again again that that"
+    },
+    {
+      "start_sec": 553.24,
+      "text": "description is exactly what we are"
+    },
+    {
+      "start_sec": 555.08,
+      "text": "looking at. So as you remember,"
+    },
+    {
+      "start_sec": 557.96,
+      "text": "digital we started reporting when it was"
+    },
+    {
+      "start_sec": 559.68,
+      "text": "about 20% I think. And we took it over 3"
+    },
+    {
+      "start_sec": 563.28,
+      "text": "4 years maybe to over 60% when it became"
+    },
+    {
+      "start_sec": 566.8,
+      "text": "part of everything we were doing. So I"
+    },
+    {
+      "start_sec": 569.6,
+      "text": "don't know if it's exactly the same cuz"
+    },
+    {
+      "start_sec": 571.96,
+      "text": "there are indications that AI could go"
+    },
+    {
+      "start_sec": 573.92,
+      "text": "faster."
+    },
+    {
+      "start_sec": 574.52,
+      "text": ">> Mhm."
+    },
+    {
+      "start_sec": 575.12,
+      "text": ">> But it also depends a little bit on the"
+    },
+    {
+      "start_sec": 577.2,
+      "text": "macro because today"
+    },
+    {
+      "start_sec": 579.92,
+      "text": "in AI already there's a lot of attention"
+    },
+    {
+      "start_sec": 583.24,
+      "text": "on token cost."
+    },
+    {
+      "start_sec": 584.52,
+      "text": ">> Mhm."
+    },
+    {
+      "start_sec": 585.04,
+      "text": ">> So, this is move very quickly, meaning"
+    },
+    {
+      "start_sec": 588.24,
+      "text": "even if you look a few months ago, there"
+    },
+    {
+      "start_sec": 590.72,
+      "text": "was only discussion on can we use"
+    },
+    {
+      "start_sec": 593.96,
+      "text": "the best models for everything. And"
+    },
+    {
+      "start_sec": 597.04,
+      "text": "today there's already discussion on can"
+    },
+    {
+      "start_sec": 599.64,
+      "text": "we use the appropriate model for any"
+    },
+    {
+      "start_sec": 602.48,
+      "text": "task we're doing? And so,"
+    },
+    {
+      "start_sec": 604.52,
+      "text": "within Infosys we have built something"
+    },
+    {
+      "start_sec": 606.88,
+      "text": "called Topaz Fabric where we work with"
+    },
+    {
+      "start_sec": 609.4,
+      "text": "15 models."
+    },
+    {
+      "start_sec": 612.72,
+      "text": "And even in each of the models we work"
+    },
+    {
+      "start_sec": 614.64,
+      "text": "with the older version of that model as"
+    },
+    {
+      "start_sec": 616.44,
+      "text": "well."
+    },
+    {
+      "start_sec": 617.92,
+      "text": "So, if you look at a token cost, it"
+    },
+    {
+      "start_sec": 620.88,
+      "text": "for the most recent models if it's a"
+    },
+    {
+      "start_sec": 622.76,
+      "text": "100, for the most efficient it's almost"
+    },
+    {
+      "start_sec": 625.08,
+      "text": "five or 10 in terms of ratio. So,"
+    },
+    {
+      "start_sec": 628.44,
+      "text": "all of that has to play out. When we do"
+    },
+    {
+      "start_sec": 631.48,
+      "text": "that, my my sense is today we're only"
+    },
+    {
+      "start_sec": 634.44,
+      "text": "looking at companies doing X, can we do"
+    },
+    {
+      "start_sec": 637.08,
+      "text": "it better with agents? Tomorrow we're"
+    },
+    {
+      "start_sec": 639.44,
+      "text": "going to look at"
+    },
+    {
+      "start_sec": 640.72,
+      "text": "instead of X, can we do 10 X in a"
+    },
+    {
+      "start_sec": 642.92,
+      "text": "company? And so, those sorts of changes"
+    },
+    {
+      "start_sec": 645.72,
+      "text": "we can expand it even more massively."
+    },
+    {
+      "start_sec": 648.08,
+      "text": "So, I don't know what that horizon is,"
+    },
+    {
+      "start_sec": 649.96,
+      "text": "but it's it's a transformation, it's an"
+    },
+    {
+      "start_sec": 652.32,
+      "text": "execution, it's a pivot. So, the faster"
+    },
+    {
+      "start_sec": 654.76,
+      "text": "we go, it could take, you know, fewer"
+    },
+    {
+      "start_sec": 657.2,
+      "text": "quarters, it could take a few longer,"
+    },
+    {
+      "start_sec": 658.839,
+      "text": "but the path appears fairly well laid"
+    },
+    {
+      "start_sec": 661.839,
+      "text": "out."
+    },
+    {
+      "start_sec": 662.28,
+      "text": ">> You know, I I I think at the start of"
+    },
+    {
+      "start_sec": 663.8,
+      "text": "the year"
+    },
+    {
+      "start_sec": 665.08,
+      "text": "the nightmare for Indian IT and the big"
+    },
+    {
+      "start_sec": 667.2,
+      "text": "question that was being asked is will"
+    },
+    {
+      "start_sec": 669.2,
+      "text": "you be cloudified? And and and I think"
+    },
+    {
+      "start_sec": 672.92,
+      "text": "from a market perspective we saw the"
+    },
+    {
+      "start_sec": 674.76,
+      "text": "kind of value erosion, the wealth"
+    },
+    {
+      "start_sec": 676.56,
+      "text": "erosion that took place. It's"
+    },
+    {
+      "start_sec": 678.76,
+      "text": "a recovery in the last few weeks is is"
+    },
+    {
+      "start_sec": 681.4,
+      "text": "still underway, of course, still"
+    },
+    {
+      "start_sec": 683.72,
+      "text": "significantly lower than the kind of"
+    },
+    {
+      "start_sec": 685.48,
+      "text": "peaks that companies like yours as well"
+    },
+    {
+      "start_sec": 687.28,
+      "text": "as the sector have enjoyed. But, is"
+    },
+    {
+      "start_sec": 690.4,
+      "text": "there now uh"
+    },
+    {
+      "start_sec": 692.72,
+      "text": "uh an acknowledgement or an appreciation"
+    },
+    {
+      "start_sec": 696.48,
+      "text": "that it's not all over for the Indian IT"
+    },
+    {
+      "start_sec": 698.6,
+      "text": "services industry because you know you"
+    },
+    {
+      "start_sec": 701.2,
+      "text": "know that the obituaries were being"
+    },
+    {
+      "start_sec": 702.72,
+      "text": "written at the start of the year."
+    },
+    {
+      "start_sec": 706.753,
+      "text": ">> [laughter]"
+    },
+    {
+      "start_sec": 709.4,
+      "text": ">> So my sense of me"
+    },
+    {
+      "start_sec": 711.56,
+      "text": "We've always had the view that"
+    },
+    {
+      "start_sec": 714.44,
+      "text": "the work we do for large companies which"
+    },
+    {
+      "start_sec": 716.96,
+      "text": "is our client base requires"
+    },
+    {
+      "start_sec": 720.96,
+      "text": "that as they bring in new foundation"
+    },
+    {
+      "start_sec": 723.12,
+      "text": "models that we given that we know the"
+    },
+    {
+      "start_sec": 725.92,
+      "text": "context what's going on the landscape in"
+    },
+    {
+      "start_sec": 728.48,
+      "text": "a company that we can help and that's"
+    },
+    {
+      "start_sec": 731.36,
+      "text": "seems to be getting demonstrated now so"
+    },
+    {
+      "start_sec": 733.72,
+      "text": "we even internally had that view. They"
+    },
+    {
+      "start_sec": 736.52,
+      "text": "were different views externally but we"
+    },
+    {
+      "start_sec": 738.68,
+      "text": "seem to be seeing that coming back but"
+    },
+    {
+      "start_sec": 741.24,
+      "text": "the real sort of test in my mind is as"
+    },
+    {
+      "start_sec": 743.92,
+      "text": "all of that comes to bear over the next"
+    },
+    {
+      "start_sec": 746.08,
+      "text": "few years but we can see the path to it"
+    },
+    {
+      "start_sec": 748.76,
+      "text": "for sure. If you look at it even like"
+    },
+    {
+      "start_sec": 751.88,
+      "text": "recruitment like last year we recruited"
+    },
+    {
+      "start_sec": 754.52,
+      "text": "20,000 college graduates if we didn't"
+    },
+    {
+      "start_sec": 757.64,
+      "text": "have that belief we wouldn't have done"
+    },
+    {
+      "start_sec": 760.08,
+      "text": "that this year we already have the same"
+    },
+    {
+      "start_sec": 762.4,
+      "text": "similar plan another 20,000"
+    },
+    {
+      "start_sec": 765.76,
+      "text": "in the first quarter we've already done"
+    },
+    {
+      "start_sec": 768.16,
+      "text": "4,000 college hires so we see you know"
+    },
+    {
+      "start_sec": 772.48,
+      "text": "the the"
+    },
+    {
+      "start_sec": 773.76,
+      "text": "individuals coming in from colleges"
+    },
+    {
+      "start_sec": 776.8,
+      "text": "absolutely"
+    },
+    {
+      "start_sec": 778.44,
+      "text": "AI native people we are training them on"
+    },
+    {
+      "start_sec": 781.64,
+      "text": "our own"
+    },
+    {
+      "start_sec": 783.04,
+      "text": "existing approach and then making sure"
+    },
+    {
+      "start_sec": 786.08,
+      "text": "that they learn all the new tools that"
+    },
+    {
+      "start_sec": 788.28,
+      "text": "we have."
+    },
+    {
+      "start_sec": 789.52,
+      "text": "We have about 80,000 people already in"
+    },
+    {
+      "start_sec": 792.36,
+      "text": "the company today we're working on"
+    },
+    {
+      "start_sec": 794.16,
+      "text": "coding tools for clients and and some"
+    },
+    {
+      "start_sec": 796.2,
+      "text": "internal projects so"
+    },
+    {
+      "start_sec": 797.8,
+      "text": "to me at least I see this as a great"
+    },
+    {
+      "start_sec": 800.96,
+      "text": "opportunity for the next phase of the"
+    },
+    {
+      "start_sec": 803.48,
+      "text": "transformation. Infosys my sense we will"
+    },
+    {
+      "start_sec": 806.8,
+      "text": "continue to scale and grow"
+    },
+    {
+      "start_sec": 809.08,
+      "text": "and and I think the sector itself, you"
+    },
+    {
+      "start_sec": 811.56,
+      "text": "know, as long as we're executing to go"
+    },
+    {
+      "start_sec": 813.76,
+      "text": "into AI should be okay."
+    },
+    {
+      "start_sec": 815.8,
+      "text": ">> Yeah, you know, that's the future. Let's"
+    },
+    {
+      "start_sec": 817.48,
+      "text": "talk a little bit about the near term."
+    },
+    {
+      "start_sec": 818.72,
+      "text": "And I think what the market was"
+    },
+    {
+      "start_sec": 820.56,
+      "text": "concerned about at the end of your"
+    },
+    {
+      "start_sec": 822.56,
+      "text": "earnings and of course I don't want to"
+    },
+    {
+      "start_sec": 823.72,
+      "text": "go too much into the earnings because"
+    },
+    {
+      "start_sec": 825.36,
+      "text": "you've done"
+    },
+    {
+      "start_sec": 826.48,
+      "text": "extensive conversations around that. But"
+    },
+    {
+      "start_sec": 829.28,
+      "text": "the very sharp cut in in guidance,"
+    },
+    {
+      "start_sec": 832.28,
+      "text": "especially on revenue, that has worried"
+    },
+    {
+      "start_sec": 835.36,
+      "text": "people. What is it that you're seeing in"
+    },
+    {
+      "start_sec": 837.92,
+      "text": "terms of the significant deterioration"
+    },
+    {
+      "start_sec": 839.68,
+      "text": "in the last 3 months itself that's"
+    },
+    {
+      "start_sec": 841.32,
+      "text": "forced your hand to announce such a"
+    },
+    {
+      "start_sec": 843.92,
+      "text": "sharp cut?"
+    },
+    {
+      "start_sec": 845.08,
+      "text": ">> So, we we changed the guidance. One of"
+    },
+    {
+      "start_sec": 848.24,
+      "text": "the reasons and we shared all of this"
+    },
+    {
+      "start_sec": 849.96,
+      "text": "was we had a one-time"
+    },
+    {
+      "start_sec": 853.16,
+      "text": "event in terms of client change of plans"
+    },
+    {
+      "start_sec": 857.0,
+      "text": "which we uh uh described. That was the"
+    },
+    {
+      "start_sec": 860.92,
+      "text": "bulk of it. And then we saw which the"
+    },
+    {
+      "start_sec": 863.92,
+      "text": "macro being a little bit uneven, some of"
+    },
+    {
+      "start_sec": 866.16,
+      "text": "the changes in volume now. When"
+    },
+    {
+      "start_sec": 868.28,
+      "text": "something like this"
+    },
+    {
+      "start_sec": 869.72,
+      "text": "happens in the first quarter, it has a"
+    },
+    {
+      "start_sec": 872.48,
+      "text": "flow through through the whole year. But"
+    },
+    {
+      "start_sec": 874.72,
+      "text": "outside of that, if you look at our"
+    },
+    {
+      "start_sec": 877.16,
+      "text": "large deals, very strong. If you look at"
+    },
+    {
+      "start_sec": 880.08,
+      "text": "our margin, actually higher than what"
+    },
+    {
+      "start_sec": 882.56,
+      "text": "most people were expecting. And we see a"
+    },
+    {
+      "start_sec": 885.6,
+      "text": "stable sort of an outlook for margin. If"
+    },
+    {
+      "start_sec": 888.44,
+      "text": "you look at free cash flow,"
+    },
+    {
+      "start_sec": 890.88,
+      "text": "very strong at 950 million. So, all of"
+    },
+    {
+      "start_sec": 894.12,
+      "text": "the business parameters are looking in"
+    },
+    {
+      "start_sec": 896.96,
+      "text": "good shape. And then we had the the AI"
+    },
+    {
+      "start_sec": 899.24,
+      "text": "which is looking strong as well. So, my"
+    },
+    {
+      "start_sec": 901.36,
+      "text": "sense is"
+    },
+    {
+      "start_sec": 902.839,
+      "text": "overall the business is in excellent"
+    },
+    {
+      "start_sec": 904.96,
+      "text": "shape and making sure that we go through"
+    },
+    {
+      "start_sec": 908.28,
+      "text": "all of the changes, whether it's with AI"
+    },
+    {
+      "start_sec": 910.48,
+      "text": "which is a transformation, and with the"
+    },
+    {
+      "start_sec": 913.08,
+      "text": "changes in the global environment which"
+    },
+    {
+      "start_sec": 914.88,
+      "text": "is just making sure we are navigating"
+    },
+    {
+      "start_sec": 917.56,
+      "text": "through that."
+    },
+    {
+      "start_sec": 918.64,
+      "text": ">> Right. Saloni, you know, I wanted to get"
+    },
+    {
+      "start_sec": 920.72,
+      "text": "your comments on what we heard from"
+    },
+    {
+      "start_sec": 922.28,
+      "text": "Arvind Krishna at the end of IBM's"
+    },
+    {
+      "start_sec": 924.08,
+      "text": "earnings and he talked about the fact"
+    },
+    {
+      "start_sec": 925.84,
+      "text": "that because there is such a priority on"
+    },
+    {
+      "start_sec": 928.76,
+      "text": "infrastructure spend at this point in"
+    },
+    {
+      "start_sec": 930.32,
+      "text": "time that perhaps people are holding"
+    },
+    {
+      "start_sec": 932.04,
+      "text": "back on traditional IT services spends."
+    },
+    {
+      "start_sec": 934.88,
+      "text": "Are you sensing that from your clients"
+    },
+    {
+      "start_sec": 936.68,
+      "text": "also?"
+    },
+    {
+      "start_sec": 937.4,
+      "text": ">> So we we have seen basically our clients"
+    },
+    {
+      "start_sec": 941.24,
+      "text": "much more focused on cost activities."
+    },
+    {
+      "start_sec": 944.84,
+      "text": "But we have not seen a change otherwise"
+    },
+    {
+      "start_sec": 948.04,
+      "text": "in the spend. I think"
+    },
+    {
+      "start_sec": 949.96,
+      "text": "a lot of clients are becoming more"
+    },
+    {
+      "start_sec": 952.36,
+      "text": "sensitive on how they spend what we"
+    },
+    {
+      "start_sec": 955.32,
+      "text": "discussed earlier on the token usage. So"
+    },
+    {
+      "start_sec": 957.8,
+      "text": "that"
+    },
+    {
+      "start_sec": 959.08,
+      "text": "is an efficiency that they are driving"
+    },
+    {
+      "start_sec": 960.76,
+      "text": "through. We continue to see for example"
+    },
+    {
+      "start_sec": 963.44,
+      "text": "on AI"
+    },
+    {
+      "start_sec": 964.88,
+      "text": "a lot of spend which is where we getting"
+    },
+    {
+      "start_sec": 967.12,
+      "text": "this sort of a growth on and and the"
+    },
+    {
+      "start_sec": 969.32,
+      "text": "other piece is a little bit more"
+    },
+    {
+      "start_sec": 971.4,
+      "text": "attention on cost which has been going"
+    },
+    {
+      "start_sec": 973.16,
+      "text": "on more in light of the macro really for"
+    },
+    {
+      "start_sec": 976.24,
+      "text": "the last few quarters"
+    },
+    {
+      "start_sec": 979.04,
+      "text": "year or so. So that that is how we've"
+    },
+    {
+      "start_sec": 981.28,
+      "text": "seen it without any changes."
+    },
+    {
+      "start_sec": 983.08,
+      "text": ">> Yeah, you know, competition of course"
+    },
+    {
+      "start_sec": 985.08,
+      "text": "has been intense in the sector but is it"
+    },
+    {
+      "start_sec": 987.2,
+      "text": "particularly intense now? I mean many of"
+    },
+    {
+      "start_sec": 990.44,
+      "text": "your peers are calling out the fact that"
+    },
+    {
+      "start_sec": 992.24,
+      "text": "competition is off the charts."
+    },
+    {
+      "start_sec": 994.0,
+      "text": "Somebody's breakfast is your lunch,"
+    },
+    {
+      "start_sec": 995.839,
+      "text": "somebody else's dinner is your"
+    },
+    {
+      "start_sec": 997.48,
+      "text": "breakfast. I mean how how"
+    },
+    {
+      "start_sec": 1000.0,
+      "text": "how much pressure is that putting on"
+    },
+    {
+      "start_sec": 1002.2,
+      "text": "margins for instance and do you expect"
+    },
+    {
+      "start_sec": 1004.68,
+      "text": "that to only worsen as we go forward?"
+    },
+    {
+      "start_sec": 1006.96,
+      "text": ">> So there again we've taken a view to be"
+    },
+    {
+      "start_sec": 1010.0,
+      "text": "extremely clear that we we want to make"
+    },
+    {
+      "start_sec": 1013.12,
+      "text": "sure that anything we do fits what our"
+    },
+    {
+      "start_sec": 1016.04,
+      "text": "economic profile is. So you've seen"
+    },
+    {
+      "start_sec": 1018.4,
+      "text": "our margin has remained resilient all"
+    },
+    {
+      "start_sec": 1020.88,
+      "text": "through this and actually last year it's"
+    },
+    {
+      "start_sec": 1023.32,
+      "text": "improved a little bit on the prior year."
+    },
+    {
+      "start_sec": 1026.4,
+      "text": "Uh and we see that being part of what we"
+    },
+    {
+      "start_sec": 1029.28,
+      "text": "do."
+    },
+    {
+      "start_sec": 1030.64,
+      "text": "The competitive intensity is is quite"
+    },
+    {
+      "start_sec": 1033.52,
+      "text": "quite heavy which which you described."
+    },
+    {
+      "start_sec": 1036.4,
+      "text": ">> Worse than what you've seen in the last"
+    },
+    {
+      "start_sec": 1038.16,
+      "text": "10 years?"
+    },
+    {
+      "start_sec": 1039.68,
+      "text": ">> Uh"
+    },
+    {
+      "start_sec": 1040.92,
+      "text": ">> More intense in the last 10 years?"
+    },
+    {
+      "start_sec": 1043.68,
+      "text": ">> I I I've always felt it's equally"
+    },
+    {
+      "start_sec": 1045.839,
+      "text": "intense. So, I don't see it's increased,"
+    },
+    {
+      "start_sec": 1047.839,
+      "text": "but maybe there are you know, there are"
+    },
+    {
+      "start_sec": 1049.68,
+      "text": "different companies at different stages"
+    },
+    {
+      "start_sec": 1051.84,
+      "text": "of their sort of"
+    },
+    {
+      "start_sec": 1055.32,
+      "text": "their life cycle. So, then some people"
+    },
+    {
+      "start_sec": 1057.96,
+      "text": "maybe get a little bit more intense when"
+    },
+    {
+      "start_sec": 1059.64,
+      "text": "they're different stages."
+    },
+    {
+      "start_sec": 1061.28,
+      "text": "Uh we've taken a view to make sure that"
+    },
+    {
+      "start_sec": 1063.36,
+      "text": "we you know, we've done"
+    },
+    {
+      "start_sec": 1065.6,
+      "text": "over 3.6 billion of large deals. So, we"
+    },
+    {
+      "start_sec": 1067.84,
+      "text": "are winning huge deals consistently."
+    },
+    {
+      "start_sec": 1071.24,
+      "text": "Equally, we've been very careful on one"
+    },
+    {
+      "start_sec": 1073.56,
+      "text": "or two instances where the economic"
+    },
+    {
+      "start_sec": 1075.96,
+      "text": "outlook is definitely not fitting what"
+    },
+    {
+      "start_sec": 1078.68,
+      "text": "we're looking at."
+    },
+    {
+      "start_sec": 1079.28,
+      "text": ">> How many of you walked away from because"
+    },
+    {
+      "start_sec": 1081.56,
+      "text": "economically it was not making sense for"
+    },
+    {
+      "start_sec": 1083.68,
+      "text": "you?"
+    },
+    {
+      "start_sec": 1083.96,
+      "text": ">> there you know, it's hardly"
+    },
+    {
+      "start_sec": 1086.16,
+      "text": "There was a discussion that we had at"
+    },
+    {
+      "start_sec": 1088.36,
+      "text": "the time of the results where we talked"
+    },
+    {
+      "start_sec": 1090.64,
+      "text": "about one specific instance in a"
+    },
+    {
+      "start_sec": 1093.64,
+      "text": "European client, but it's literally"
+    },
+    {
+      "start_sec": 1096.84,
+      "text": "nothing"
+    },
+    {
+      "start_sec": 1098.2,
+      "text": "which is in larger numbers. Very small."
+    },
+    {
+      "start_sec": 1101.24,
+      "text": "One or two in that sense because"
+    },
+    {
+      "start_sec": 1103.56,
+      "text": "we are extremely competitive, but we are"
+    },
+    {
+      "start_sec": 1105.64,
+      "text": "also really clear that there are some"
+    },
+    {
+      "start_sec": 1108.84,
+      "text": "things that we want to make sure that we"
+    },
+    {
+      "start_sec": 1111.0,
+      "text": "manage what our economic sort of profile"
+    },
+    {
+      "start_sec": 1114.28,
+      "text": "of the company is. And these things"
+    },
+    {
+      "start_sec": 1116.48,
+      "text": "sometimes in the short run you know,"
+    },
+    {
+      "start_sec": 1120.04,
+      "text": "may may be sort of unusual for other"
+    },
+    {
+      "start_sec": 1122.72,
+      "text": "people. Other companies might see some"
+    },
+    {
+      "start_sec": 1124.96,
+      "text": "benefit, but we are very clear that we"
+    },
+    {
+      "start_sec": 1127.08,
+      "text": "want to do this in a way that makes"
+    },
+    {
+      "start_sec": 1128.6,
+      "text": "sense for the medium and long term."
+    },
+    {
+      "start_sec": 1130.6,
+      "text": ">> You know, what I also want to understand"
+    },
+    {
+      "start_sec": 1132.72,
+      "text": "from you Salil, and I think this is"
+    },
+    {
+      "start_sec": 1134.0,
+      "text": "something that industry is grappling"
+    },
+    {
+      "start_sec": 1135.64,
+      "text": "with, that as you move more towards an"
+    },
+    {
+      "start_sec": 1137.84,
+      "text": "agentic economy, as you move more"
+    },
+    {
+      "start_sec": 1140.44,
+      "text": "towards agents within an organization,"
+    },
+    {
+      "start_sec": 1143.48,
+      "text": "what is that going to mean structurally"
+    },
+    {
+      "start_sec": 1144.92,
+      "text": "as far as margins are concerned? You"
+    },
+    {
+      "start_sec": 1146.72,
+      "text": "know,"
+    },
+    {
+      "start_sec": 1147.48,
+      "text": "what is the impact going to be on the"
+    },
+    {
+      "start_sec": 1149.8,
+      "text": "way that you price?"
+    },
+    {
+      "start_sec": 1152.48,
+      "text": ">> So, there there there are different"
+    },
+    {
+      "start_sec": 1154.44,
+      "text": "models that are already coming into"
+    },
+    {
+      "start_sec": 1156.16,
+      "text": "place. So, first"
+    },
+    {
+      "start_sec": 1157.68,
+      "text": "we have in small instances things which"
+    },
+    {
+      "start_sec": 1160.76,
+      "text": "look like"
+    },
+    {
+      "start_sec": 1162.48,
+      "text": "agents plus our own"
+    },
+    {
+      "start_sec": 1166.04,
+      "text": "uh software engineers sort of working on"
+    },
+    {
+      "start_sec": 1167.96,
+      "text": "joint teams like that."
+    },
+    {
+      "start_sec": 1169.92,
+      "text": "Second,"
+    },
+    {
+      "start_sec": 1171.16,
+      "text": "we are looking at things where"
+    },
+    {
+      "start_sec": 1173.96,
+      "text": "there are business outcomes which also"
+    },
+    {
+      "start_sec": 1176.4,
+      "text": "become part of it. It's not all of it,"
+    },
+    {
+      "start_sec": 1178.56,
+      "text": "but that'll become part of it. But,"
+    },
+    {
+      "start_sec": 1180.36,
+      "text": "these things, at least what we've seen"
+    },
+    {
+      "start_sec": 1182.04,
+      "text": "in our industry and in Infosys is it"
+    },
+    {
+      "start_sec": 1184.52,
+      "text": "takes time to make those changes. For"
+    },
+    {
+      "start_sec": 1186.56,
+      "text": "the large part, it's still similar the"
+    },
+    {
+      "start_sec": 1189.52,
+      "text": "way the pricing works. And there's a lot"
+    },
+    {
+      "start_sec": 1191.96,
+      "text": "of pricing"
+    },
+    {
+      "start_sec": 1194.84,
+      "text": "productivity benefit which clients"
+    },
+    {
+      "start_sec": 1197.44,
+      "text": "themselves are seeking when they see all"
+    },
+    {
+      "start_sec": 1199.44,
+      "text": "the benefits that we can deliver. And"
+    },
+    {
+      "start_sec": 1201.4,
+      "text": "so, all that will also go on."
+    },
+    {
+      "start_sec": 1203.76,
+      "text": "However, we are building these new"
+    },
+    {
+      "start_sec": 1206.12,
+      "text": "things which are quite"
+    },
+    {
+      "start_sec": 1207.96,
+      "text": "incredible if you look at some of the"
+    },
+    {
+      "start_sec": 1210.44,
+      "text": "agents, the work that has been going on,"
+    },
+    {
+      "start_sec": 1212.8,
+      "text": "some of the work we're doing with coding"
+    },
+    {
+      "start_sec": 1214.52,
+      "text": "tools. So, there are places where the"
+    },
+    {
+      "start_sec": 1216.96,
+      "text": "pricing is"
+    },
+    {
+      "start_sec": 1218.76,
+      "text": "let's say quite good for for the"
+    },
+    {
+      "start_sec": 1220.64,
+      "text": "company. There are benefits that the"
+    },
+    {
+      "start_sec": 1222.76,
+      "text": "clients are receiving which are quite"
+    },
+    {
+      "start_sec": 1224.44,
+      "text": "massive. So, both of those things are"
+    },
+    {
+      "start_sec": 1226.28,
+      "text": "happening now."
+    },
+    {
+      "start_sec": 1227.04,
+      "text": ">> So, the benefits that the clients are"
+    },
+    {
+      "start_sec": 1228.84,
+      "text": "receiving on account of productivity, do"
+    },
+    {
+      "start_sec": 1231.2,
+      "text": "you get to leverage on that or you know"
+    },
+    {
+      "start_sec": 1233.28,
+      "text": "how does it work?"
+    },
+    {
+      "start_sec": 1234.52,
+      "text": ">> I mean, usually"
+    },
+    {
+      "start_sec": 1236.8,
+      "text": "there's some sharing. I think the bulk"
+    },
+    {
+      "start_sec": 1238.88,
+      "text": "of it still goes to the clients, but we"
+    },
+    {
+      "start_sec": 1241.16,
+      "text": "do get some of it because in many"
+    },
+    {
+      "start_sec": 1243.36,
+      "text": "instances when we bring those ideas to"
+    },
+    {
+      "start_sec": 1245.96,
+      "text": "clients,"
+    },
+    {
+      "start_sec": 1247.2,
+      "text": "they they immediately see the benefits."
+    },
+    {
+      "start_sec": 1248.96,
+      "text": "So, for example, we're doing a project"
+    },
+    {
+      "start_sec": 1251.68,
+      "text": "on modernizing a technology environment."
+    },
+    {
+      "start_sec": 1255.24,
+      "text": "So,"
+    },
+    {
+      "start_sec": 1256.32,
+      "text": "it will have a one-time cost which which"
+    },
+    {
+      "start_sec": 1258.44,
+      "text": "the client will bear and pay us, but it"
+    },
+    {
+      "start_sec": 1261.12,
+      "text": "will also have a huge benefit for their"
+    },
+    {
+      "start_sec": 1263.56,
+      "text": "running their infrastructure, their"
+    },
+    {
+      "start_sec": 1266.28,
+      "text": "environment ongoing which will be much"
+    },
+    {
+      "start_sec": 1268.08,
+      "text": "reduced. So, client will be extremely"
+    },
+    {
+      "start_sec": 1270.12,
+      "text": "happy in this instance, but the overall"
+    },
+    {
+      "start_sec": 1272.2,
+      "text": "mix they will benefit and and we will"
+    },
+    {
+      "start_sec": 1274.56,
+      "text": "receive some benefit."
+    },
+    {
+      "start_sec": 1275.88,
+      "text": ">> You know,"
+    },
+    {
+      "start_sec": 1276.8,
+      "text": "how agentic will emphasis look in the"
+    },
+    {
+      "start_sec": 1279.6,
+      "text": "next 5 years? And what is that going to"
+    },
+    {
+      "start_sec": 1281.36,
+      "text": "mean as far as your workforce is"
+    },
+    {
+      "start_sec": 1283.72,
+      "text": "concerned going forward? You're hiring"
+    },
+    {
+      "start_sec": 1285.48,
+      "text": "today as you pointed out last year,"
+    },
+    {
+      "start_sec": 1287.16,
+      "text": "20,000 fresh graduates, but as we move"
+    },
+    {
+      "start_sec": 1290.04,
+      "text": "more into this agentic future, what will"
+    },
+    {
+      "start_sec": 1293.08,
+      "text": "it realistically mean both in terms of"
+    },
+    {
+      "start_sec": 1294.8,
+      "text": "hiring as well as in terms of workflow?"
+    },
+    {
+      "start_sec": 1297.76,
+      "text": ">> So, the work is you know, it's like uh"
+    },
+    {
+      "start_sec": 1301.88,
+      "text": "today's foundation models that exist are"
+    },
+    {
+      "start_sec": 1304.64,
+      "text": "like a very"
+    },
+    {
+      "start_sec": 1307.16,
+      "text": "uh great efficiency tool that an"
+    },
+    {
+      "start_sec": 1310.84,
+      "text": "engineer can use, a software engineer"
+    },
+    {
+      "start_sec": 1312.4,
+      "text": "can use. So, for them"
+    },
+    {
+      "start_sec": 1314.24,
+      "text": "they're doing different things by using"
+    },
+    {
+      "start_sec": 1316.96,
+      "text": "these tools. It's a like an advanced"
+    },
+    {
+      "start_sec": 1318.72,
+      "text": "toolkit that you have with you. So, my"
+    },
+    {
+      "start_sec": 1320.84,
+      "text": "sense and this is evolving, so it's not"
+    },
+    {
+      "start_sec": 1322.48,
+      "text": "like we've reached an asymptote or"
+    },
+    {
+      "start_sec": 1324.24,
+      "text": "anything in the foundation model"
+    },
+    {
+      "start_sec": 1326.0,
+      "text": "technology yet. So, my sense is that"
+    },
+    {
+      "start_sec": 1329.92,
+      "text": "evolution will keep enhancing. So, the"
+    },
+    {
+      "start_sec": 1332.72,
+      "text": "people who learn, which is our"
+    },
+    {
+      "start_sec": 1334.36,
+      "text": "reskilling or the new graduates who"
+    },
+    {
+      "start_sec": 1336.76,
+      "text": "learn these technologies well, will be"
+    },
+    {
+      "start_sec": 1339.12,
+      "text": "more the beneficiaries."
+    },
+    {
+      "start_sec": 1340.4,
+      "text": ">> Mhm."
+    },
+    {
+      "start_sec": 1341.04,
+      "text": ">> They'll be really native AI people as"
+    },
+    {
+      "start_sec": 1343.96,
+      "text": "you know, as years go on in the next"
+    },
+    {
+      "start_sec": 1346.0,
+      "text": "year, 2 years, 5 years. And that will be"
+    },
+    {
+      "start_sec": 1348.52,
+      "text": "the type of person that works you know,"
+    },
+    {
+      "start_sec": 1350.8,
+      "text": "we have a plan to"
+    },
+    {
+      "start_sec": 1353.48,
+      "text": "sort of have 6,000 frontier engineers."
+    },
+    {
+      "start_sec": 1356.64,
+      "text": "We'll have and this is over the next few"
+    },
+    {
+      "start_sec": 1358.04,
+      "text": "years, but over 5, 7 years we'll have"
+    },
+    {
+      "start_sec": 1360.48,
+      "text": "more and more of that sort of capability"
+    },
+    {
+      "start_sec": 1362.6,
+      "text": "within the company that can work with"
+    },
+    {
+      "start_sec": 1364.64,
+      "text": "clients. So, my sense is they'll be"
+    },
+    {
+      "start_sec": 1366.96,
+      "text": "absolutely sort of AI native type of"
+    },
+    {
+      "start_sec": 1369.88,
+      "text": "people who are working there."
+    },
+    {
+      "start_sec": 1371.12,
+      "text": ">> So, these frontier engineers, would"
+    },
+    {
+      "start_sec": 1373.16,
+      "text": "would this be the same as FDEs"
+    },
+    {
+      "start_sec": 1376.12,
+      "text": "or or is this is this a is this a"
+    },
+    {
+      "start_sec": 1377.96,
+      "text": "different league altogether?"
+    },
+    {
+      "start_sec": 1380.56,
+      "text": ">> No, so I I mean, there's some people are"
+    },
+    {
+      "start_sec": 1382.72,
+      "text": "using that terminology"
+    },
+    {
+      "start_sec": 1385.08,
+      "text": "uh FDs. What we are doing with frontier"
+    },
+    {
+      "start_sec": 1387.64,
+      "text": "engineers is in many ways making sure"
+    },
+    {
+      "start_sec": 1390.48,
+      "text": "that people who understand the"
+    },
+    {
+      "start_sec": 1392.2,
+      "text": "technology"
+    },
+    {
+      "start_sec": 1393.64,
+      "text": "but who also understand the engineering"
+    },
+    {
+      "start_sec": 1395.48,
+      "text": "of it. Meaning, how does it work in a"
+    },
+    {
+      "start_sec": 1397.28,
+      "text": "company and then understand the"
+    },
+    {
+      "start_sec": 1398.8,
+      "text": "business. So,"
+    },
+    {
+      "start_sec": 1400.52,
+      "text": "that's the skill that that frontier"
+    },
+    {
+      "start_sec": 1402.4,
+      "text": "engineer has"
+    },
+    {
+      "start_sec": 1403.92,
+      "text": "uh and we already have a good good team"
+    },
+    {
+      "start_sec": 1406.04,
+      "text": "internally. We are making sure that"
+    },
+    {
+      "start_sec": 1408.2,
+      "text": "people go through internal assessments"
+    },
+    {
+      "start_sec": 1410.36,
+      "text": "so that we we can be certain this is"
+    },
+    {
+      "start_sec": 1413.32,
+      "text": "frontier engineer who can work with"
+    },
+    {
+      "start_sec": 1414.76,
+      "text": "clients. And then we are also scaling up"
+    },
+    {
+      "start_sec": 1416.96,
+      "text": "from outside."
+    },
+    {
+      "start_sec": 1417.96,
+      "text": ">> You know, Salil and I think this is not"
+    },
+    {
+      "start_sec": 1420.32,
+      "text": "just a criticism of of any one company"
+    },
+    {
+      "start_sec": 1422.92,
+      "text": "individually, but it's a collective sort"
+    },
+    {
+      "start_sec": 1425.52,
+      "text": "of criticism of the Indian IT services"
+    },
+    {
+      "start_sec": 1427.76,
+      "text": "industry that"
+    },
+    {
+      "start_sec": 1429.48,
+      "text": "could you have done more as far as IP"
+    },
+    {
+      "start_sec": 1431.64,
+      "text": "and innovation is concerned? Could you"
+    },
+    {
+      "start_sec": 1433.92,
+      "text": "have used and deployed your capital more"
+    },
+    {
+      "start_sec": 1436.4,
+      "text": "on R&D and innovation as opposed to"
+    },
+    {
+      "start_sec": 1438.36,
+      "text": "buybacks and and dividends? How do you"
+    },
+    {
+      "start_sec": 1441.64,
+      "text": "today, from your vantage point,"
+    },
+    {
+      "start_sec": 1444.08,
+      "text": "realistically respond to that criticism?"
+    },
+    {
+      "start_sec": 1446.2,
+      "text": "How valid is that?"
+    },
+    {
+      "start_sec": 1448.44,
+      "text": ">> So, if you look at Infosys, I think"
+    },
+    {
+      "start_sec": 1451.12,
+      "text": "our approach, you know, essentially we"
+    },
+    {
+      "start_sec": 1453.88,
+      "text": "are a services company which works"
+    },
+    {
+      "start_sec": 1456.68,
+      "text": "across the landscape of all the new"
+    },
+    {
+      "start_sec": 1458.64,
+      "text": "technologies."
+    },
+    {
+      "start_sec": 1460.56,
+      "text": "With that being said,"
+    },
+    {
+      "start_sec": 1463.04,
+      "text": "we have already built two small language"
+    },
+    {
+      "start_sec": 1466.32,
+      "text": "models."
+    },
+    {
+      "start_sec": 1468.04,
+      "text": "Building large language models is a"
+    },
+    {
+      "start_sec": 1470.08,
+      "text": "different"
+    },
+    {
+      "start_sec": 1472.16,
+      "text": "economic approach and"
+    },
+    {
+      "start_sec": 1475.44,
+      "text": "it's it's very different from what we do"
+    },
+    {
+      "start_sec": 1478.36,
+      "text": "within a services business. But the"
+    },
+    {
+      "start_sec": 1480.52,
+      "text": "small language models that we built"
+    },
+    {
+      "start_sec": 1483.12,
+      "text": "are very clear. For example, we have one"
+    },
+    {
+      "start_sec": 1485.2,
+      "text": "for banking. This uses fewer parameters."
+    },
+    {
+      "start_sec": 1488.92,
+      "text": "It builds on data sets which are"
+    },
+    {
+      "start_sec": 1491.08,
+      "text": "non-client based but that we have an"
+    },
+    {
+      "start_sec": 1493.56,
+      "text": "understanding of. And with that trained"
+    },
+    {
+      "start_sec": 1496.0,
+      "text": "model, we are already creating massive"
+    },
+    {
+      "start_sec": 1498.52,
+      "text": "impact within in this case the banking"
+    },
+    {
+      "start_sec": 1501.76,
+      "text": "banking client base. And then we build a"
+    },
+    {
+      "start_sec": 1503.84,
+      "text": "small language model, which is across IT"
+    },
+    {
+      "start_sec": 1507.2,
+      "text": "operations, which is a little bit more"
+    },
+    {
+      "start_sec": 1508.8,
+      "text": "horizontal, and that's working well as"
+    },
+    {
+      "start_sec": 1510.84,
+      "text": "well. So, our"
+    },
+    {
+      "start_sec": 1513.52,
+      "text": "approach is given the sort of"
+    },
+    {
+      "start_sec": 1517.52,
+      "text": "tech services business that we have,"
+    },
+    {
+      "start_sec": 1520.48,
+      "text": "we have made sure that we do what is"
+    },
+    {
+      "start_sec": 1523.08,
+      "text": "appropriate for that business to scale"
+    },
+    {
+      "start_sec": 1525.52,
+      "text": "up"
+    },
+    {
+      "start_sec": 1526.44,
+      "text": "and work with all the different models."
+    },
+    {
+      "start_sec": 1528.52,
+      "text": "If you look at today,"
+    },
+    {
+      "start_sec": 1530.48,
+      "text": "you know, working with 15 models, there"
+    },
+    {
+      "start_sec": 1532.48,
+      "text": "are different models that are good for"
+    },
+    {
+      "start_sec": 1533.92,
+      "text": "different things, and we bring that"
+    },
+    {
+      "start_sec": 1535.84,
+      "text": "expertise or knowledge into our clients,"
+    },
+    {
+      "start_sec": 1538.64,
+      "text": "which is where the real value of Infosys"
+    },
+    {
+      "start_sec": 1541.08,
+      "text": "is to make sure that's easily available"
+    },
+    {
+      "start_sec": 1543.52,
+      "text": "for all of those clients."
+    },
+    {
+      "start_sec": 1544.88,
+      "text": ">> You know, so the current debate on"
+    },
+    {
+      "start_sec": 1548.24,
+      "text": "globally at this point in time,"
+    },
+    {
+      "start_sec": 1549.84,
+      "text": "open-source, open weights, the limits to"
+    },
+    {
+      "start_sec": 1552.36,
+      "text": "renting intelligence, uh you know, Satya"
+    },
+    {
+      "start_sec": 1554.48,
+      "text": "Nadella actually saying that look, every"
+    },
+    {
+      "start_sec": 1556.68,
+      "text": "company will need to have its own model."
+    },
+    {
+      "start_sec": 1559.4,
+      "text": "As you look at the AI future and the"
+    },
+    {
+      "start_sec": 1561.96,
+      "text": "conversations that are happening"
+    },
+    {
+      "start_sec": 1564.0,
+      "text": "globally and what would be important and"
+    },
+    {
+      "start_sec": 1566.12,
+      "text": "imperative for Indian IT services"
+    },
+    {
+      "start_sec": 1567.88,
+      "text": "companies like yours, what do you"
+    },
+    {
+      "start_sec": 1569.84,
+      "text": "believe where do you believe the"
+    },
+    {
+      "start_sec": 1571.04,
+      "text": "challenge lies, but more importantly,"
+    },
+    {
+      "start_sec": 1573.16,
+      "text": "what will you prioritize?"
+    },
+    {
+      "start_sec": 1575.56,
+      "text": ">> So, there I think first"
+    },
+    {
+      "start_sec": 1578.16,
+      "text": "we we work with 15 models, some of them"
+    },
+    {
+      "start_sec": 1580.6,
+      "text": "are open weight, some of them are"
+    },
+    {
+      "start_sec": 1582.88,
+      "text": "closed."
+    },
+    {
+      "start_sec": 1584.72,
+      "text": "We work with different versions, meaning"
+    },
+    {
+      "start_sec": 1587.24,
+      "text": "older models, newer models."
+    },
+    {
+      "start_sec": 1589.72,
+      "text": "What is critical in all of this debate,"
+    },
+    {
+      "start_sec": 1592.0,
+      "text": "at least from our view, is"
+    },
+    {
+      "start_sec": 1594.16,
+      "text": "clients should have the ability to"
+    },
+    {
+      "start_sec": 1598.0,
+      "text": "ensure that they manage their data, but"
+    },
+    {
+      "start_sec": 1600.84,
+      "text": "also have control over"
+    },
+    {
+      "start_sec": 1603.44,
+      "text": "what is distinctive about their"
+    },
+    {
+      "start_sec": 1605.64,
+      "text": "business, which they should be careful"
+    },
+    {
+      "start_sec": 1610.0,
+      "text": "doesn't"
+    },
+    {
+      "start_sec": 1611.6,
+      "text": "leave their sort of ecosystem without"
+    },
+    {
+      "start_sec": 1614.2,
+      "text": "their knowledge or control."
+    },
+    {
+      "start_sec": 1615.48,
+      "text": ">> Mhm."
+    },
+    {
+      "start_sec": 1616.12,
+      "text": ">> Uh and that all models have the ability"
+    },
+    {
+      "start_sec": 1618.8,
+      "text": "to provide that in different ways. Open"
+    },
+    {
+      "start_sec": 1620.8,
+      "text": "way, it's very clear. But other models"
+    },
+    {
+      "start_sec": 1623.88,
+      "text": "will also do that because"
+    },
+    {
+      "start_sec": 1626.8,
+      "text": "not no large company wants to leave"
+    },
+    {
+      "start_sec": 1629.84,
+      "text": "their own sovereign sort of knowledge"
+    },
+    {
+      "start_sec": 1632.88,
+      "text": "that not just the data which can become"
+    },
+    {
+      "start_sec": 1635.52,
+      "text": "outside the company."
+    },
+    {
+      "start_sec": 1637.16,
+      "text": "So, what we have done by building"
+    },
+    {
+      "start_sec": 1639.88,
+      "text": "sort of Topaz fabric is make that more"
+    },
+    {
+      "start_sec": 1643.16,
+      "text": "possible for our clients."
+    },
+    {
+      "start_sec": 1644.4,
+      "text": ">> Mhm."
+    },
+    {
+      "start_sec": 1645.24,
+      "text": ">> And the earlier discussion on token"
+    },
+    {
+      "start_sec": 1647.52,
+      "text": "efficiency, those are two important"
+    },
+    {
+      "start_sec": 1650.0,
+      "text": "elements today which is you know, I"
+    },
+    {
+      "start_sec": 1652.36,
+      "text": "don't want to lose what's differentiated"
+    },
+    {
+      "start_sec": 1654.44,
+      "text": "for me as a company and I want to do it"
+    },
+    {
+      "start_sec": 1656.84,
+      "text": "in a way that's efficient. Uh and that"
+    },
+    {
+      "start_sec": 1660.16,
+      "text": "is the more critical debate at least as"
+    },
+    {
+      "start_sec": 1662.68,
+      "text": "we see it for large companies."
+    },
+    {
+      "start_sec": 1665.2,
+      "text": "Uh others, I think of course, you know,"
+    },
+    {
+      "start_sec": 1667.44,
+      "text": "there are big global players on tech or"
+    },
+    {
+      "start_sec": 1670.04,
+      "text": "on the labs. Each of them have their own"
+    },
+    {
+      "start_sec": 1672.32,
+      "text": "perspective on what they're driving and"
+    },
+    {
+      "start_sec": 1674.0,
+      "text": "each of them have their own objectives"
+    },
+    {
+      "start_sec": 1676.64,
+      "text": "also. But this is how we are looking at"
+    },
+    {
+      "start_sec": 1679.04,
+      "text": "it and we are working with each of them."
+    },
+    {
+      "start_sec": 1681.56,
+      "text": "Uh"
+    },
+    {
+      "start_sec": 1682.76,
+      "text": "m- many of them have all the"
+    },
+    {
+      "start_sec": 1684.24,
+      "text": "ingredients. It's a question of making"
+    },
+    {
+      "start_sec": 1686.12,
+      "text": "it sort of let's say ready for clients."
+    },
+    {
+      "start_sec": 1688.96,
+      "text": "And in that way, what we build with"
+    },
+    {
+      "start_sec": 1690.48,
+      "text": "fabric helps our clients do it a little"
+    },
+    {
+      "start_sec": 1692.92,
+      "text": "bit more easily. Many clients are doing"
+    },
+    {
+      "start_sec": 1694.24,
+      "text": "it themselves as well. So, it's not like"
+    },
+    {
+      "start_sec": 1696.72,
+      "text": "you know, once you have a sense of what"
+    },
+    {
+      "start_sec": 1698.72,
+      "text": "this is, it's not that difficult to put"
+    },
+    {
+      "start_sec": 1700.92,
+      "text": "it in place so you don't lose it."
+    },
+    {
+      "start_sec": 1702.36,
+      "text": ">> That's the fear. Many clients are now"
+    },
+    {
+      "start_sec": 1703.92,
+      "text": "doing it themselves and which is the"
+    },
+    {
+      "start_sec": 1706.24,
+      "text": "question that people are asking that"
+    },
+    {
+      "start_sec": 1707.84,
+      "text": "will it not start to impact your ability"
+    },
+    {
+      "start_sec": 1710.8,
+      "text": "to work with clients as they build that"
+    },
+    {
+      "start_sec": 1712.76,
+      "text": "in-house capability?"
+    },
+    {
+      "start_sec": 1714.08,
+      "text": ">> It's not the capability. What I mean is"
+    },
+    {
+      "start_sec": 1716.56,
+      "text": "they're doing it themselves in"
+    },
+    {
+      "start_sec": 1718.12,
+      "text": "understanding what this implication is."
+    },
+    {
+      "start_sec": 1721.36,
+      "text": "At the end, we have the scale and the"
+    },
+    {
+      "start_sec": 1724.04,
+      "text": "experience across 1,800 different"
+    },
+    {
+      "start_sec": 1726.64,
+      "text": "clients. So, large companies that work"
+    },
+    {
+      "start_sec": 1729.76,
+      "text": "with us want to take the benefit or"
+    },
+    {
+      "start_sec": 1731.4,
+      "text": "advantage of that."
+    },
+    {
+      "start_sec": 1732.52,
+      "text": ">> Not log you out."
+    },
+    {
+      "start_sec": 1734.0,
+      "text": ">> At least at this stage we are seeing"
+    },
+    {
+      "start_sec": 1735.52,
+      "text": "tremendous growth on the AI services"
+    },
+    {
+      "start_sec": 1737.8,
+      "text": "side. But this"
+    },
+    {
+      "start_sec": 1740.72,
+      "text": "realization that these things are also"
+    },
+    {
+      "start_sec": 1742.84,
+      "text": "critical is what I mean in terms of the"
+    },
+    {
+      "start_sec": 1745.52,
+      "text": "clients are starting to see. If you look"
+    },
+    {
+      "start_sec": 1747.52,
+      "text": "back, you know, a few months, maybe a"
+    },
+    {
+      "start_sec": 1749.24,
+      "text": "year, there was a little bit of let's"
+    },
+    {
+      "start_sec": 1751.8,
+      "text": "just get something going with AI, which"
+    },
+    {
+      "start_sec": 1754.52,
+      "text": "is now changed to let's do it in a way"
+    },
+    {
+      "start_sec": 1757.0,
+      "text": "that makes"
+    },
+    {
+      "start_sec": 1758.36,
+      "text": "sense for the for our company. And which"
+    },
+    {
+      "start_sec": 1760.76,
+      "text": "is where I think we we, you know, we can"
+    },
+    {
+      "start_sec": 1763.2,
+      "text": "play a huge role in that."
+    },
+    {
+      "start_sec": 1764.56,
+      "text": ">> You know, you've been fairly acquisitive"
+    },
+    {
+      "start_sec": 1766.56,
+      "text": "in your tenure, Salil, but do you"
+    },
+    {
+      "start_sec": 1768.4,
+      "text": "believe that the way that you do M&A,"
+    },
+    {
+      "start_sec": 1770.84,
+      "text": "the kinds of targets that you go after"
+    },
+    {
+      "start_sec": 1772.68,
+      "text": "will need to change given the AI future"
+    },
+    {
+      "start_sec": 1776.68,
+      "text": "that we're all entering?"
+    },
+    {
+      "start_sec": 1778.72,
+      "text": ">> The I think the targets will evolve"
+    },
+    {
+      "start_sec": 1781.08,
+      "text": "because we've done a lot of acquisitions"
+    },
+    {
+      "start_sec": 1784.24,
+      "text": "on industry or capability. So, in AI"
+    },
+    {
+      "start_sec": 1787.76,
+      "text": "today it'll be a little bit more focused"
+    },
+    {
+      "start_sec": 1789.52,
+      "text": "on capability, but there's not that many"
+    },
+    {
+      "start_sec": 1791.88,
+      "text": "companies of even decent scale. They're"
+    },
+    {
+      "start_sec": 1793.88,
+      "text": "they're much smaller."
+    },
+    {
+      "start_sec": 1795.4,
+      "text": "But the approach, which is a little bit"
+    },
+    {
+      "start_sec": 1797.84,
+      "text": "of discipline on what we will pay for"
+    },
+    {
+      "start_sec": 1800.88,
+      "text": "it,"
+    },
+    {
+      "start_sec": 1802.04,
+      "text": "how will it integrate, how is the"
+    },
+    {
+      "start_sec": 1804.48,
+      "text": "culture of that company, will that work?"
+    },
+    {
+      "start_sec": 1806.52,
+      "text": ">> Is this a buyer's market? Is it a"
+    },
+    {
+      "start_sec": 1808.56,
+      "text": "seller's market today?"
+    },
+    {
+      "start_sec": 1810.48,
+      "text": ">> Well, AI companies, I think not so many,"
+    },
+    {
+      "start_sec": 1813.6,
+      "text": "so they they have a great advantage if"
+    },
+    {
+      "start_sec": 1815.8,
+      "text": "they build a good business. My my guess"
+    },
+    {
+      "start_sec": 1818.32,
+      "text": "is many people will look to acquire"
+    },
+    {
+      "start_sec": 1819.84,
+      "text": "them."
+    },
+    {
+      "start_sec": 1820.4,
+      "text": ">> You know, you talked about"
+    },
+    {
+      "start_sec": 1821.64,
+      "text": "differentiation. I want to understand"
+    },
+    {
+      "start_sec": 1823.24,
+      "text": "from you some of your peers are getting"
+    },
+    {
+      "start_sec": 1825.12,
+      "text": "into the data center business. Some of"
+    },
+    {
+      "start_sec": 1826.88,
+      "text": "them are actually picking up equity"
+    },
+    {
+      "start_sec": 1828.28,
+      "text": "stakes in AI companies, HCL Tech with"
+    },
+    {
+      "start_sec": 1830.92,
+      "text": "with Sarvam, TCS doing data centers as"
+    },
+    {
+      "start_sec": 1833.88,
+      "text": "well. Is that something that you foresee"
+    },
+    {
+      "start_sec": 1836.28,
+      "text": "for Infosys?"
+    },
+    {
+      "start_sec": 1837.52,
+      "text": ">> So, we've looked at that and we are not"
+    },
+    {
+      "start_sec": 1839.48,
+      "text": "planning to do a go into the data center"
+    },
+    {
+      "start_sec": 1842.2,
+      "text": "business. So, we've looked at"
+    },
+    {
+      "start_sec": 1844.72,
+      "text": "from our perspective, our balance sheet,"
+    },
+    {
+      "start_sec": 1848.88,
+      "text": "the potential needs of cash to build out"
+    },
+    {
+      "start_sec": 1852.4,
+      "text": "any scale data center,"
+    },
+    {
+      "start_sec": 1854.44,
+      "text": "and then other requirements, you know,"
+    },
+    {
+      "start_sec": 1856.44,
+      "text": "which are around essentially uh,"
+    },
+    {
+      "start_sec": 1858.64,
+      "text": "projects around energy, uh, and it's"
+    },
+    {
+      "start_sec": 1862.08,
+      "text": "something that we have decided at this"
+    },
+    {
+      "start_sec": 1864.4,
+      "text": "stage, uh, is not something we will"
+    },
+    {
+      "start_sec": 1867.0,
+      "text": "benefit from, uh, especially given, uh,"
+    },
+    {
+      "start_sec": 1869.64,
+      "text": "our balance sheet, uh, because some of"
+    },
+    {
+      "start_sec": 1872.36,
+      "text": "the cash needs could be quite, quite"
+    },
+    {
+      "start_sec": 1873.84,
+      "text": "massive. So, we've looked at it uh, from"
+    },
+    {
+      "start_sec": 1876.4,
+      "text": "the management team, we've looked at it"
+    },
+    {
+      "start_sec": 1878.88,
+      "text": "uh, in our board, and we've decided not"
+    },
+    {
+      "start_sec": 1880.92,
+      "text": "to do it."
+    },
+    {
+      "start_sec": 1881.52,
+      "text": ">> Not to go to the data center route, but"
+    },
+    {
+      "start_sec": 1883.84,
+      "text": "uh, AI, and I put this in the context"
+    },
+    {
+      "start_sec": 1886.12,
+      "text": "of, uh, you know, what what has been the"
+    },
+    {
+      "start_sec": 1888.16,
+      "text": "big headline, should Infosys have bet on"
+    },
+    {
+      "start_sec": 1891.4,
+      "text": "OpenAI when that was, uh, the option in"
+    },
+    {
+      "start_sec": 1894.16,
+      "text": "2014, it would have been a"
+    },
+    {
+      "start_sec": 1896.16,
+      "text": "entirely different story today. Uh, you"
+    },
+    {
+      "start_sec": 1899.12,
+      "text": "know, as as you look back at that, do"
+    },
+    {
+      "start_sec": 1901.2,
+      "text": "you believe that that was a big missed"
+    },
+    {
+      "start_sec": 1902.36,
+      "text": "opportunity?"
+    },
+    {
+      "start_sec": 1903.72,
+      "text": ">> Well, I think in many ways,"
+    },
+    {
+      "start_sec": 1905.56,
+      "text": ">> I mean, you were not there then, but"
+    },
+    {
+      "start_sec": 1907.2,
+      "text": "from an outsider's perspective, and now"
+    },
+    {
+      "start_sec": 1908.92,
+      "text": "as an insider, do you believe that that"
+    },
+    {
+      "start_sec": 1910.48,
+      "text": "was a missed opportunity?"
+    },
+    {
+      "start_sec": 1912.0,
+      "text": ">> Well, I think we've we built"
+    },
+    {
+      "start_sec": 1913.64,
+      "text": "partnerships with"
+    },
+    {
+      "start_sec": 1916.16,
+      "text": "AI labs all through, uh, even earlier"
+    },
+    {
+      "start_sec": 1919.76,
+      "text": "on, there were discussions with"
+    },
+    {
+      "start_sec": 1922.24,
+      "text": "different companies on how we can build"
+    },
+    {
+      "start_sec": 1924.0,
+      "text": "partnerships. We've done that even now."
+    },
+    {
+      "start_sec": 1926.16,
+      "text": "At that stage, it was a different"
+    },
+    {
+      "start_sec": 1928.2,
+      "text": "discussion from what I understand. I was"
+    },
+    {
+      "start_sec": 1930.24,
+      "text": "not there. It was much more looking at"
+    },
+    {
+      "start_sec": 1932.52,
+      "text": "how someone was building a"
+    },
+    {
+      "start_sec": 1934.56,
+      "text": "not-for-profit type of an, uh, entity."
+    },
+    {
+      "start_sec": 1936.88,
+      "text": "So, very different, uh, environment,"
+    },
+    {
+      "start_sec": 1939.16,
+      "text": "very early on in it. But today,"
+    },
+    {
+      "start_sec": 1941.84,
+      "text": "absolutely, we are building huge"
+    },
+    {
+      "start_sec": 1943.68,
+      "text": "partnerships. So, each of the labs, we"
+    },
+    {
+      "start_sec": 1945.84,
+      "text": "have a strong partnership, you know, we"
+    },
+    {
+      "start_sec": 1947.52,
+      "text": "want to work with them, they want to"
+    },
+    {
+      "start_sec": 1949.04,
+      "text": "work with us. We see great, great impact"
+    },
+    {
+      "start_sec": 1951.32,
+      "text": "with clients."
+    },
+    {
+      "start_sec": 1952.28,
+      "text": ">> You know, from an engineer's"
+    },
+    {
+      "start_sec": 1954.16,
+      "text": "perspective, and I think the big"
+    },
+    {
+      "start_sec": 1955.6,
+      "text": "question mark is, what do you need to do"
+    },
+    {
+      "start_sec": 1958.12,
+      "text": "differently uh, if you're coming out of"
+    },
+    {
+      "start_sec": 1959.88,
+      "text": "engineering school today?"
+    },
+    {
+      "start_sec": 1961.88,
+      "text": "And again, the question that's been"
+    },
+    {
+      "start_sec": 1963.72,
+      "text": "asked of industry for years is when do"
+    },
+    {
+      "start_sec": 1966.8,
+      "text": "the starting salaries change? Will you"
+    },
+    {
+      "start_sec": 1968.8,
+      "text": "need to look at the workforce"
+    },
+    {
+      "start_sec": 1970.88,
+      "text": "differently even from a compensation"
+    },
+    {
+      "start_sec": 1972.64,
+      "text": "point of view as you look at a new skill"
+    },
+    {
+      "start_sec": 1975.08,
+      "text": "set for the AI future?"
+    },
+    {
+      "start_sec": 1977.44,
+      "text": ">> So there again,"
+    },
+    {
+      "start_sec": 1979.28,
+      "text": "we we already in the last year or 2"
+    },
+    {
+      "start_sec": 1982.28,
+      "text": "years put in place a range of"
+    },
+    {
+      "start_sec": 1985.12,
+      "text": "compensation depending on the skills"
+    },
+    {
+      "start_sec": 1987.64,
+      "text": "that people are bringing. You might have"
+    },
+    {
+      "start_sec": 1989.44,
+      "text": "uh heard of we have a power programmer"
+    },
+    {
+      "start_sec": 1992.68,
+      "text": "uh"
+    },
+    {
+      "start_sec": 1993.28,
+      "text": "internal approach. We have different"
+    },
+    {
+      "start_sec": 1996.16,
+      "text": "levels of skills in terms of specialists"
+    },
+    {
+      "start_sec": 1999.28,
+      "text": "that come in even at the college level."
+    },
+    {
+      "start_sec": 2001.44,
+      "text": "So all that is going on with more uh"
+    },
+    {
+      "start_sec": 2004.24,
+      "text": "differentiated salaries."
+    },
+    {
+      "start_sec": 2006.64,
+      "text": "Also with AI, we'll see similar things."
+    },
+    {
+      "start_sec": 2008.64,
+      "text": "So if you look at uh the frontier"
+    },
+    {
+      "start_sec": 2010.96,
+      "text": "engineers, we will see a similar type of"
+    },
+    {
+      "start_sec": 2013.36,
+      "text": "a difference because"
+    },
+    {
+      "start_sec": 2016.0,
+      "text": "those are the skills that are becoming"
+    },
+    {
+      "start_sec": 2017.88,
+      "text": "more and more relevant. And as college"
+    },
+    {
+      "start_sec": 2020.0,
+      "text": "graduates are building those skills uh"
+    },
+    {
+      "start_sec": 2022.24,
+      "text": "and the market, meaning our clients, are"
+    },
+    {
+      "start_sec": 2024.08,
+      "text": "looking at those with value, uh we we"
+    },
+    {
+      "start_sec": 2026.4,
+      "text": "also making sure that all of those are"
+    },
+    {
+      "start_sec": 2028.28,
+      "text": "rewarded in the right way."
+    },
+    {
+      "start_sec": 2029.76,
+      "text": ">> You know, uh Salil, let me end by asking"
+    },
+    {
+      "start_sec": 2031.6,
+      "text": "you you've seen this company through"
+    },
+    {
+      "start_sec": 2033.56,
+      "text": "many challenges. In fact, it's been a"
+    },
+    {
+      "start_sec": 2035.68,
+      "text": "trial by fire over the last 10 years for"
+    },
+    {
+      "start_sec": 2038.2,
+      "text": "you. You came in uh at a difficult time"
+    },
+    {
+      "start_sec": 2040.68,
+      "text": "where there was a very public boardroom"
+    },
+    {
+      "start_sec": 2042.56,
+      "text": "battle. Uh you've seen this company"
+    },
+    {
+      "start_sec": 2044.76,
+      "text": "through the digital transformation."
+    },
+    {
+      "start_sec": 2046.48,
+      "text": "You've seen it through the COVID"
+    },
+    {
+      "start_sec": 2047.8,
+      "text": "disruption. And now you're sort of"
+    },
+    {
+      "start_sec": 2049.56,
+      "text": "seeing it through uh the AI uh wave as"
+    },
+    {
+      "start_sec": 2052.76,
+      "text": "well. Uh"
+    },
+    {
+      "start_sec": 2054.159,
+      "text": "What is different this time around?"
+    },
+    {
+      "start_sec": 2055.84,
+      "text": "Would you say that this pivot, this"
+    },
+    {
+      "start_sec": 2057.76,
+      "text": "transformation, this transition is"
+    },
+    {
+      "start_sec": 2059.44,
+      "text": "perhaps the hardest uh"
+    },
+    {
+      "start_sec": 2061.96,
+      "text": "than the the previous ones that you've"
+    },
+    {
+      "start_sec": 2063.48,
+      "text": "had to steer?"
+    },
+    {
+      "start_sec": 2064.919,
+      "text": ">> I think when you're in the middle of any"
+    },
+    {
+      "start_sec": 2067.44,
+      "text": "of these changes, each of them look"
+    },
+    {
+      "start_sec": 2069.32,
+      "text": "quite uh"
+    },
+    {
+      "start_sec": 2071.28,
+      "text": "uh uh energizing."
+    },
+    {
+      "start_sec": 2072.8,
+      "text": "Uh I think this one equally is is"
+    },
+    {
+      "start_sec": 2074.879,
+      "text": "similar. We are extremely well equipped"
+    },
+    {
+      "start_sec": 2078.32,
+      "text": "in that sense for it."
+    },
+    {
+      "start_sec": 2080.72,
+      "text": "The The key element here really for me"
+    },
+    {
+      "start_sec": 2082.8,
+      "text": "is, you know, the the culture of the"
+    },
+    {
+      "start_sec": 2085.28,
+      "text": "company is is what's in many ways, let's"
+    },
+    {
+      "start_sec": 2088.32,
+      "text": "say, constant and what uh when I came"
+    },
+    {
+      "start_sec": 2090.96,
+      "text": "in, I spent a little bit more time to"
+    },
+    {
+      "start_sec": 2093.639,
+      "text": "make sure that we we went back to where"
+    },
+    {
+      "start_sec": 2096.72,
+      "text": "the strength was, you know, the the"
+    },
+    {
+      "start_sec": 2098.92,
+      "text": "engineering culture, the delivery"
+    },
+    {
+      "start_sec": 2100.72,
+      "text": "mindset, the approach to work with"
+    },
+    {
+      "start_sec": 2103.0,
+      "text": "clients. So, in in many ways"
+    },
+    {
+      "start_sec": 2106.28,
+      "text": "I'm I'm sort of of the view that"
+    },
+    {
+      "start_sec": 2108.92,
+      "text": "hopefully I've left uh Infosys a little"
+    },
+    {
+      "start_sec": 2111.64,
+      "text": "bit uh better than when I found it. And"
+    },
+    {
+      "start_sec": 2114.72,
+      "text": "and hopefully uh Infosys has sort of"
+    },
+    {
+      "start_sec": 2117.12,
+      "text": "left me a little bit better than when"
+    },
+    {
+      "start_sec": 2118.32,
+      "text": "they found me."
+    },
+    {
+      "start_sec": 2118.88,
+      "text": ">> You know, Salil, I read out a bunch of"
+    },
+    {
+      "start_sec": 2121.28,
+      "text": "numbers which capture the 10-year"
+    },
+    {
+      "start_sec": 2123.24,
+      "text": "journey. What, to your mind, is the most"
+    },
+    {
+      "start_sec": 2125.28,
+      "text": "significant metric that you would use uh"
+    },
+    {
+      "start_sec": 2128.32,
+      "text": "to capture your your journey here?"
+    },
+    {
+      "start_sec": 2131.52,
+      "text": ">> I think in terms of the metric, it's"
+    },
+    {
+      "start_sec": 2133.28,
+      "text": "really uh"
+    },
+    {
+      "start_sec": 2135.4,
+      "text": "the the company I feel is in a much"
+    },
+    {
+      "start_sec": 2137.56,
+      "text": "better place. So, there's not a number"
+    },
+    {
+      "start_sec": 2139.52,
+      "text": "in that sense. It's much more"
+    },
+    {
+      "start_sec": 2142.64,
+      "text": "the feeling within the company and also"
+    },
+    {
+      "start_sec": 2144.88,
+      "text": "within our clients and the environment"
+    },
+    {
+      "start_sec": 2147.24,
+      "text": "that we are in a good place. There's a"
+    },
+    {
+      "start_sec": 2149.84,
+      "text": "level of confidence, not arrogance, but"
+    },
+    {
+      "start_sec": 2152.4,
+      "text": "understanding where the market is,"
+    },
+    {
+      "start_sec": 2154.4,
+      "text": "understanding what we're doing, and the"
+    },
+    {
+      "start_sec": 2155.8,
+      "text": "team. The thing we've done with one"
+    },
+    {
+      "start_sec": 2158.04,
+      "text": "Infosys over the years, sort of the team"
+    },
+    {
+      "start_sec": 2159.72,
+      "text": "working well together. So, those are"
+    },
+    {
+      "start_sec": 2161.44,
+      "text": "more the metrics and and"
+    },
+    {
+      "start_sec": 2164.44,
+      "text": "what I said a little bit earlier, maybe"
+    },
+    {
+      "start_sec": 2165.68,
+      "text": "the culture within the company, which is"
+    },
+    {
+      "start_sec": 2167.72,
+      "text": "extremely strong and working well"
+    },
+    {
+      "start_sec": 2169.64,
+      "text": "together."
+    },
+    {
+      "start_sec": 2170.28,
+      "text": ">> You know, Salil, you're only 61. Uh so,"
+    },
+    {
+      "start_sec": 2173.2,
+      "text": "uh not not retirement age any longer"
+    },
+    {
+      "start_sec": 2176.44,
+      "text": "because you know, 60 is the new 40 as as"
+    },
+    {
+      "start_sec": 2179.84,
+      "text": "as they say. So, what next now as far as"
+    },
+    {
+      "start_sec": 2182.64,
+      "text": "Salil Parekh is concerned?"
+    },
+    {
+      "start_sec": 2184.6,
+      "text": ">> So, there, I mean, first I want to make"
+    },
+    {
+      "start_sec": 2186.32,
+      "text": "sure the next few months focus on what's"
+    },
+    {
+      "start_sec": 2188.4,
+      "text": "at hand, which is pretty uh uh critical"
+    },
+    {
+      "start_sec": 2190.56,
+      "text": "to get everything done. Uh and then I'm"
+    },
+    {
+      "start_sec": 2192.92,
+      "text": "looking forward to I'm I'm really"
+    },
+    {
+      "start_sec": 2194.6,
+      "text": "enjoying what I'm doing, looking forward"
+    },
+    {
+      "start_sec": 2196.56,
+      "text": "to doing something where I can create"
+    },
+    {
+      "start_sec": 2199.12,
+      "text": "value and and continue doing some work."
+    },
+    {
+      "start_sec": 2201.32,
+      "text": ">> Uh more AI?"
+    },
+    {
+      "start_sec": 2203.24,
+      "text": ">> Uh more something where I can create"
+    },
+    {
+      "start_sec": 2205.08,
+      "text": "value and create impact, yes."
+    },
+    {
+      "start_sec": 2206.56,
+      "text": ">> Okay, so so I'm going to have to wait"
+    },
+    {
+      "start_sec": 2208.6,
+      "text": "till you till you give me the the big"
+    },
+    {
+      "start_sec": 2210.36,
+      "text": "announcement because I I sense that"
+    },
+    {
+      "start_sec": 2212.4,
+      "text": "sense that one is coming. But, you know,"
+    },
+    {
+      "start_sec": 2214.28,
+      "text": "as as I say goodbye to you, Salil, uh"
+    },
+    {
+      "start_sec": 2217.4,
+      "text": "what is the message that you would send"
+    },
+    {
+      "start_sec": 2219.04,
+      "text": "out today on the back of the visibility"
+    },
+    {
+      "start_sec": 2221.32,
+      "text": "that you have for the near term, but"
+    },
+    {
+      "start_sec": 2223.36,
+      "text": "more importantly, because you said you"
+    },
+    {
+      "start_sec": 2225.16,
+      "text": "leave this company stronger than where"
+    },
+    {
+      "start_sec": 2226.96,
+      "text": "you"
+    },
+    {
+      "start_sec": 2227.8,
+      "text": "inherited it. Uh over the next 5 to 10"
+    },
+    {
+      "start_sec": 2230.44,
+      "text": "years, what do you believe Infosys has"
+    },
+    {
+      "start_sec": 2232.12,
+      "text": "the potential to do?"
+    },
+    {
+      "start_sec": 2233.8,
+      "text": ">> Well, I think the potential is really"
+    },
+    {
+      "start_sec": 2235.76,
+      "text": "limitless. I think the more we Today,"
+    },
+    {
+      "start_sec": 2238.0,
+      "text": "it's AI. We're already starting to do"
+    },
+    {
+      "start_sec": 2241.24,
+      "text": "very small work on quantum. So,"
+    },
+    {
+      "start_sec": 2243.88,
+      "text": "the technology is going to keep"
+    },
+    {
+      "start_sec": 2245.6,
+      "text": "changing. And what we've sort of"
+    },
+    {
+      "start_sec": 2247.56,
+      "text": "demonstrated is is how we can adapt to"
+    },
+    {
+      "start_sec": 2250.12,
+      "text": "that change. The more we learn to adapt,"
+    },
+    {
+      "start_sec": 2252.76,
+      "text": "the faster we adapt or pivot, the better"
+    },
+    {
+      "start_sec": 2255.88,
+      "text": "it is. So, to me,"
+    },
+    {
+      "start_sec": 2257.4,
+      "text": "if you look out 5, 10, 15 years, the"
+    },
+    {
+      "start_sec": 2259.92,
+      "text": "potential of Infosys is just limitless,"
+    },
+    {
+      "start_sec": 2262.72,
+      "text": "and we have a I think a phenomenal"
+    },
+    {
+      "start_sec": 2264.6,
+      "text": "foundation for that."
+    },
+    {
+      "start_sec": 2265.56,
+      "text": ">> Let me reframe that question. It took 10"
+    },
+    {
+      "start_sec": 2267.36,
+      "text": "years to go from 10 to 20 billion. Will"
+    },
+    {
+      "start_sec": 2269.88,
+      "text": "the next 10 come in a shorter time"
+    },
+    {
+      "start_sec": 2272.0,
+      "text": "period or a longer time period?"
+    },
+    {
+      "start_sec": 2273.76,
+      "text": ">> So, that, as as I always said, uh"
+    },
+    {
+      "start_sec": 2276.04,
+      "text": "Shirin, is best left to be answered by"
+    },
+    {
+      "start_sec": 2278.2,
+      "text": "the future. But, I think we're on a very"
+    },
+    {
+      "start_sec": 2280.2,
+      "text": "good very good path. I think it is"
+    },
+    {
+      "start_sec": 2283.68,
+      "text": "you know, function of executing it,"
+    },
+    {
+      "start_sec": 2285.8,
+      "text": "which we are doing very well, and the"
+    },
+    {
+      "start_sec": 2287.68,
+      "text": "opportunities are are quite incredible."
+    },
+    {
+      "start_sec": 2289.96,
+      "text": "And unfortunately, we have a very strong"
+    },
+    {
+      "start_sec": 2291.88,
+      "text": "foundation, so it should work well."
+    },
+    {
+      "start_sec": 2293.6,
+      "text": ">> You know, Salil, I was I was telling a"
+    },
+    {
+      "start_sec": 2295.6,
+      "text": "colleague, and having seen you over the"
+    },
+    {
+      "start_sec": 2298.12,
+      "text": "last 10 years, and having interviewed"
+    },
+    {
+      "start_sec": 2299.88,
+      "text": "you over the last 10 years, you were"
+    },
+    {
+      "start_sec": 2302.56,
+      "text": "unflappable. You're cooler than a"
+    },
+    {
+      "start_sec": 2304.52,
+      "text": "cucumber. Nothing phases you. Where do"
+    },
+    {
+      "start_sec": 2307.0,
+      "text": "you Where do you get this zen-like"
+    },
+    {
+      "start_sec": 2308.6,
+      "text": "equanimity almost?"
+    },
+    {
+      "start_sec": 2310.44,
+      "text": ">> That's a difficult one. I have no idea."
+    },
+    {
+      "start_sec": 2312.28,
+      "text": "I think"
+    },
+    {
+      "start_sec": 2313.56,
+      "text": "I have learned a lot from interacting"
+    },
+    {
+      "start_sec": 2315.92,
+      "text": "with you."
+    },
+    {
+      "start_sec": 2316.84,
+      "text": ">> We can We can throw any question at you,"
+    },
+    {
+      "start_sec": 2319.16,
+      "text": "but you will only give the answers that"
+    },
+    {
+      "start_sec": 2320.76,
+      "text": "you want to give."
+    },
+    {
+      "start_sec": 2322.001,
+      "text": ">> [laughter]"
+    },
+    {
+      "start_sec": 2323.32,
+      "text": ">> Maybe maybe that's how it's working, but"
+    },
+    {
+      "start_sec": 2325.72,
+      "text": "I I've really enjoyed all of the"
+    },
+    {
+      "start_sec": 2327.32,
+      "text": "interaction. I think it's been"
+    },
+    {
+      "start_sec": 2328.6,
+      "text": "incredible."
+    },
+    {
+      "start_sec": 2330.08,
+      "text": "What I've always admired is really how"
+    },
+    {
+      "start_sec": 2332.88,
+      "text": "much insight you have and how many"
+    },
+    {
+      "start_sec": 2334.84,
+      "text": "different things you're doing, but how"
+    },
+    {
+      "start_sec": 2335.96,
+      "text": "much insight you have on Infosys."
+    },
+    {
+      "start_sec": 2337.84,
+      "text": ">> Salil, thanks so much. We wish you all"
+    },
+    {
+      "start_sec": 2339.4,
+      "text": "the best and look forward to another"
+    },
+    {
+      "start_sec": 2342.24,
+      "text": "interview as you start your next journey"
+    },
+    {
+      "start_sec": 2344.56,
+      "text": "and your next chapter. Thanks very much"
+    },
+    {
+      "start_sec": 2346.4,
+      "text": "for joining us today. Well, with that,"
+    },
+    {
+      "start_sec": 2348.08,
+      "text": "it is time for us to wrap up this"
+    },
+    {
+      "start_sec": 2349.48,
+      "text": "edition of On the Record with Salil"
+    },
+    {
+      "start_sec": 2351.4,
+      "text": "Parekh. We'll see you again next week."
+    },
+    {
+      "start_sec": 2352.92,
+      "text": "Till then, from all of us here from the"
+    },
+    {
+      "start_sec": 2354.44,
+      "text": "Infosys headquarters in Bengaluru,"
+    },
+    {
+      "start_sec": 2356.36,
+      "text": "thanks very much for watching."
+    }
+  ]
+}
