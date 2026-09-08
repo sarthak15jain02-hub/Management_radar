@@ -2,3 +2,5 @@ requests
 pymupdf
 youtube-transcript-api
 python-dotenv
+google-genai
+streamlit
