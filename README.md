@@ -67,4 +67,4 @@ the database. The raw PDF is therefore not present for that one source.
 
 
 ## Demo recording
-https://drive.google.com/drive/folders/1rcP_4oQ7rWcIhc5WYQEzGbA_LXGt7Dwt?usp=drive_link
+https://youtu.be/YAmxnaS0APQ
