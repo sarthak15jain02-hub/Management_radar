@@ -1,7 +1,6 @@
 """Simple transparent lexical retrieval for a small, fixed source collection."""
 import re
 import sqlite3
-from collections import Counter
 from pathlib import Path
 
 DB_PATH = Path("data/mgmt_radar.db")

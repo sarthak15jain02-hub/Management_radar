@@ -29,11 +29,6 @@ def db_rows(sql, params=()):
         return [dict(row) for row in conn.execute(sql, params).fetchall()]
 
 
-def timestamp(value):
-    seconds = int(value)
-    return f"{seconds // 60}:{seconds % 60:02d}"
-
-
 if not DB_PATH.exists():
     st.error("Database not found. Run the three Step 2 commands in the README first.")
     st.stop()
@@ -70,7 +65,7 @@ with right:
     st.subheader("Ask the sources")
     st.caption("Answers are limited to retrieved passages. A citation is always shown underneath.")
     question = st.text_area("Question", placeholder="What did management say about AI growth?", height=100)
-    if st.button("Find answer", type="primary", use_container_width=True):
+    if st.button("Find answer", type="primary", width="stretch"):
         if not question.strip():
             st.warning("Write a question first.")
         else:

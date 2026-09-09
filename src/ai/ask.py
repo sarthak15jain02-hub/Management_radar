@@ -18,4 +18,4 @@ def answer(question: str, company_id: int) -> tuple[str, list[dict]]:
     if not rows:
         return "I couldn't find that in the available sources.", []
     prompt = f"QUESTION: {question}\n\nRETRIEVED EXCERPTS:\n{context(rows)}"
-    return generate(INSTRUCTIONS, prompt, max_output_tokens=500), rows
+    return generate(INSTRUCTIONS, prompt), rows

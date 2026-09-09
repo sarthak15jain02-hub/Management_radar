@@ -12,8 +12,6 @@ MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite")
 def generate(
     instructions: str,
     input_text: str,
-    max_output_tokens: int = 700,
-    response_schema: dict | None = None,
 ) -> str:
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:

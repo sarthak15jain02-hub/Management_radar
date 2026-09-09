@@ -16,18 +16,6 @@ plain-English summary in 2-3 sentences) and topic_tags (an array of 2-5 short lo
 tags such as results, margins, expansion, ai, demand, management-change, partnership,
 production, dividend, risk). Do not invent facts that are not in the source."""
 
-SUMMARY_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "summary": {"type": "string"},
-        "topic_tags": {
-            "type": "array",
-            "items": {"type": "string"},
-        },
-    },
-    "required": ["summary", "topic_tags"],
-}
-
 def parse_json(text: str) -> dict:
     text = text.strip()
 
@@ -64,14 +52,7 @@ def enrich(force: bool = False) -> None:
                 continue
             prompt = f"Title: {title}\nType: {source_type}\n\nSOURCE TEXT:\n{text[:18000]}"
             try:
-                result = parse_json(
-                    generate(
-                        INSTRUCTIONS,
-                        prompt,
-                        max_output_tokens=300,
-                        response_schema=SUMMARY_SCHEMA,
-                    )
-                )
+                result = parse_json(generate(INSTRUCTIONS, prompt))
                 conn.execute(
                     """INSERT INTO tags (source_id, summary, topic_tags, model_name)
                        VALUES (?, ?, ?, ?)
