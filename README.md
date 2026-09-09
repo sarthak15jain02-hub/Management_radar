@@ -64,3 +64,7 @@ Source 2 is a documented manual text override: BSE returned an HTML SPA shell
 instead of the linked PDF despite a session request with browser headers. Its
 extracted text uses the same format as PDF output, and its status is visible in
 the database. The raw PDF is therefore not present for that one source.
+
+
+## Demo recording
+https://drive.google.com/drive/folders/1rcP_4oQ7rWcIhc5WYQEzGbA_LXGt7Dwt?usp=drive_link
